@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1FB866F2-7C72-4AD3-B55D-B66E27BFB6B6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33943015-87CF-48B1-B1DA-19E95273ACCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFBD68DD-DA4E-4AC4-873F-9782FEC3DA59",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E0C57511-BC36-49E0-86F4-DF840F747BF0",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69C078EB-84A9-45EF-ADBF-0BCE19D8136B",
+    "height": 1152,
+    "width": 768,
+    "x": -1147,
+    "y": 644
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0C4955C-631C-4E93-B8F8-67758FCF4838",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A50830A3-BA2B-401B-8779-77B4AE3CB076"
+    },
+    {
+      "class": "group",
+      "id": "DFD2DD04-E3EA-4C38-8097-F0FDE16EE5F7"
+    },
+    {
+      "class": "group",
+      "id": "5423ED87-E887-4A0E-82EB-6F77C50200B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "D48C787B-9314-4081-B8B9-75025BB2C587"
+    },
+    {
+      "class": "group",
+      "id": "960DC8A4-41B8-417E-9A82-7DD196E6ACED"
+    },
+    {
+      "class": "group",
+      "id": "5B6764D6-A533-449A-99B5-90FC17D52A31"
+    },
+    {
+      "class": "group",
+      "id": "4F1AB800-2093-44EA-BCED-490D13CE5DE3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "8F085C0E-7F56-4015-ADAF-CC9F44D451AB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Job Post Success - Desktop Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9810BCC-1927-47C0-8568-E23EAB4B3293",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40AD98BF-5CED-405F-B462-A2BA7F23839F",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE42E115-F391-485A-AE28-0777BFBEB93A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B613FF8-237F-42F3-AA4B-177AA67B65B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF71EC5E-12DB-45E5-A069-436B82250B62",
+    "height": 50,
+    "width": 200,
+    "x": 17,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3876E30E-EB22-4341-9470-57C4EE944236",
+      "overrideName": "F44A514B-F450-4FD1-86A7-FAB2382538C8_symbolID",
+      "value": "BEE67306-2BA4-4AF0-A4F3-71E8E2467732"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "010B3006-D3FA-4C2A-8940-DB85652B41AA",
+      "overrideName": "830B66F8-906D-4ADB-8F32-CD18D8DA4606_stringValue",
+      "value": "View More"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFDDB301-4F49-4F85-9B6A-4F6CCCB92FEF",
+      "overrideName": "59D0F4F8-7CB3-41CD-8EFE-19F34BBCD1A6_symbolID",
+      "value": "F2BC86B2-BEC8-447F-9BE0-608D2BC2250D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6B159E2-2EA9-46B2-92B8-25E5E44119FA",
+      "overrideName": "59D0F4F8-7CB3-41CD-8EFE-19F34BBCD1A6/F51ACA1F-45E0-4A3A-8485-28648287971E_layerStyle",
+      "value": "89F00631-EF66-4F16-95B1-F251A5CC62A9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5F541CE-B370-428B-8C69-02C9428BCF23",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BEAA70DC-E22E-43BE-8CB5-9390F8684120",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

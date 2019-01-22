@@ -1,0 +1,121 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.6,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 34.21502976190476
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.25,
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "THIS JOB"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F77D6A9-2A49-4B2A-A80F-E346761C6202",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80422095-4D84-4D15-8AE0-79E5459B56EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D499E443-147D-4017-AEEB-B24BDAA7EDF5",
+    "height": 42,
+    "width": 162,
+    "x": 0,
+    "y": 58
+  },
+  "glyphBounds": "{{0, 8}, {160, 26}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "THIS JOB",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "7E266E20-5211-44FE-807C-F18CD450D001",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4220FBB-BF4F-4590-852E-594E62A7E9E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "CD970D49-9C62-4D58-9BD6-041434A6E2E8",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.6,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 34.21502976190476
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.25,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

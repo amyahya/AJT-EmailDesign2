@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "390FE89A-CC12-40F8-A8F2-334E7C2DC57E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "66BAC9C7-4856-42F6-BBEA-DAB722B61328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E982D4E1-CECF-49D2-95B0-03AC94D5D303",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "47A2292B-9810-4C05-ACC4-872339F3558A",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B77B2D6C-818A-4AAC-B9E9-B27B2266D288",
+    "height": 1385,
+    "width": 375,
+    "x": -2920,
+    "y": -2610
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9DE90ADE-070D-438F-ACCD-2C9608B96A92",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D625B47A-AE20-4A4F-BAFB-864337C563BA"
+    },
+    {
+      "class": "group",
+      "id": "EF9F8052-9361-404F-BC9A-6278A51D53D1"
+    },
+    {
+      "class": "group",
+      "id": "BA1103C5-F94B-4920-AB3F-DBC767473DE7"
+    },
+    {
+      "class": "group",
+      "id": "D8AB24F6-36A1-420F-B8A6-787A3513BB28"
+    },
+    {
+      "class": "text",
+      "id": "F8437307-393E-46AD-811A-1092505012A8"
+    },
+    {
+      "class": "text",
+      "id": "0F868335-57B9-4551-A98D-BA43AD852404"
+    },
+    {
+      "class": "group",
+      "id": "438AF273-605D-479E-8DC4-A8F44C4CDD2B"
+    },
+    {
+      "class": "group",
+      "id": "9274761E-BB98-4059-838B-77F44B957C00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "171495B2-6DBD-4778-AAED-CE36B2FE5B5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "828CFF38-688B-42EE-8F36-E59115D18CD5"
+    },
+    {
+      "class": "group",
+      "id": "F58E9DDC-5204-4D45-A37F-EA503E9B594A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "do_objectID": "19282124-6F9F-4734-86E3-3E7A737780A6",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Email : Job Posted locked -  mobile ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "341B0B38-6EA7-4C41-864F-890F6EF542AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "389B7F7F-9DAC-423E-BC24-8CD4F0421B12",
+    "guides": [
+    ]
+  }
+}

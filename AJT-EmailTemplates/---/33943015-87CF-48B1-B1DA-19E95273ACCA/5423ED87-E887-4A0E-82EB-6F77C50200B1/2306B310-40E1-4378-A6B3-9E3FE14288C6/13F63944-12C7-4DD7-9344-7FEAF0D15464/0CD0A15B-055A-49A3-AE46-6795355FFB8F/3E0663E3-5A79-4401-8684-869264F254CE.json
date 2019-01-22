@@ -1,0 +1,125 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.87,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 16.10119047619047
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.1500000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 21,
+        "location": 0
+      }
+    ],
+    "string": "Dirty Chicks, Sdn Bhd"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E0663E3-5A79-4401-8684-869264F254CE",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6E89914-4D8F-4035-A665-A4803AA6B9EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBA3470C-BA62-4D21-8B59-3D76655E2A7F",
+    "height": 24,
+    "width": 300,
+    "x": 24,
+    "y": 45
+  },
+  "glyphBounds": "{{1, 6}, {175, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "paragraph copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "19112AE1-17A9-4704-83B8-E6B1CAA1CAC2",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40292256-BD9B-4900-AF17-0E0BDFBF3663",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "6544D627-F857-424B-9631-A5F688D6E84C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.87,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 16.10119047619047
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.1500000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

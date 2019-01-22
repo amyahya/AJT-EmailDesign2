@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EABCFFB1-50F7-4301-BBBC-0AED9A23C9D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF2B413B-7CF0-4078-B29C-22C03885DF05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1189E814-DC66-4439-9A4C-6CDF403B9B12",
+    "height": 112,
+    "width": 552,
+    "x": 108,
+    "y": 103
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9375C5B7-169C-4864-B2C2-3139FA1043EA"
+    },
+    {
+      "class": "group",
+      "id": "1F41B582-06BB-40EB-9C3F-5CD905483A53"
+    }
+  ],
+  "name": "Job Post",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BCBE393-0DC6-42AC-9EDF-E2D4C8F6E5F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

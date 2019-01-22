@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "77D6AF25-A40C-47C4-851B-279D9649069C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4550A9E5-6CD0-406F-8055-449EF8DEBD75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3F3DB36-AFFB-4030-ADD1-098EC3DEDB0E",
+    "height": 14,
+    "width": 14,
+    "x": 0.2115384615383391,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_coin-$",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F24A0FBA-FBC8-4918-9333-3B9433592252",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC76899E-5D7E-439D-AF51-9E84998738E1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

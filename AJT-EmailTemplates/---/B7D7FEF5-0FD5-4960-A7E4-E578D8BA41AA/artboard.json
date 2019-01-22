@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "82AF5CF6-C980-43F6-90B3-7FB097648DCB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7D7FEF5-0FD5-4960-A7E4-E578D8BA41AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C02CE1CB-45CD-418A-82E4-BFFF9231E67A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E0C57511-BC36-49E0-86F4-DF840F747BF0",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F789414-E197-4DE4-BD4E-3A6860A05C4E",
+    "height": 1174,
+    "width": 768,
+    "x": 155,
+    "y": 662
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "00C22C78-58A8-477C-B129-07D2B811396D",
+    "guides": [
+      84,
+      684,
+      108,
+      660
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "546A2037-5A9A-4CDE-8DBD-7E72701A7320"
+    },
+    {
+      "class": "rectangle",
+      "id": "65C57C4B-8C14-4BBE-B8B3-210D4E8E4761"
+    },
+    {
+      "class": "group",
+      "id": "22FA3131-A8CD-49C2-90EA-FE0671BB42D3"
+    },
+    {
+      "class": "group",
+      "id": "46D700B2-C632-400F-A61C-E081E14D1905"
+    },
+    {
+      "class": "shapePath",
+      "id": "E72DC44F-DC55-4D2F-96EE-256CCC515420"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00506B21-D834-46C3-B3BA-995056DAC1F4"
+    },
+    {
+      "class": "group",
+      "id": "620BC37D-BCB0-45C6-8A67-56FA197F3EF0"
+    },
+    {
+      "class": "group",
+      "id": "980919DC-4224-4627-AB6C-A40A17CCDBA8"
+    },
+    {
+      "class": "group",
+      "id": "9FA2E4AF-6401-47EB-A45D-9492E3E0916F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "8E8E223A-69CE-48DE-B6D9-ACDAF0AE2267",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Email : Recommend Candidates A - Deskop Locked",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3913C8F6-AD3D-4839-B1B1-D41C4325DE76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8A3C6877-D45D-490A-84B3-BBE408DB3A2A",
+    "guides": [
+    ]
+  }
+}

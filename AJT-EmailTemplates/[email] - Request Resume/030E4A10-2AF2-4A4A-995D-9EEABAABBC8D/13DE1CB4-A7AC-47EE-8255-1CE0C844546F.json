@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13DE1CB4-A7AC-47EE-8255-1CE0C844546F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09F3FD45-9AE5-4C40-9E46-7A0A1268F6DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FB6FA56-B529-40A2-B818-1D44ADE239C7",
+    "height": 19,
+    "width": 19,
+    "x": 70,
+    "y": 280
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Lock / Fill Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E1B77211-9445-4C5C-B798-87C38E7CD347/7E06FB02-102D-4884-A0A3-F4D4EC03B038_layerStyle",
+      "value": "42FC38CA-0782-4541-961D-586D4FDB88BB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "790D4E3C-0D53-4F20-912B-760132E5CAA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA2494A6-DC9F-4E9C-BF12-BEF2264678AA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

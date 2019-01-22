@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DEAEA82-0F87-4901-B33A-2910B4E46162",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA0E65EA-C6BB-44E3-A954-8260FFA650C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45561100-A2C9-4E2C-9F00-6F2DF117091B",
+    "height": 206,
+    "width": 375,
+    "x": 0,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5930871D-0554-47FA-B331-C309323C1C4E"
+    },
+    {
+      "class": "group",
+      "id": "8B4B04E8-EA2C-49A6-80CF-593E9C71533B"
+    }
+  ],
+  "name": "Job Details",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E293BC3-C814-4810-A6C9-0CA8D5D51E50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

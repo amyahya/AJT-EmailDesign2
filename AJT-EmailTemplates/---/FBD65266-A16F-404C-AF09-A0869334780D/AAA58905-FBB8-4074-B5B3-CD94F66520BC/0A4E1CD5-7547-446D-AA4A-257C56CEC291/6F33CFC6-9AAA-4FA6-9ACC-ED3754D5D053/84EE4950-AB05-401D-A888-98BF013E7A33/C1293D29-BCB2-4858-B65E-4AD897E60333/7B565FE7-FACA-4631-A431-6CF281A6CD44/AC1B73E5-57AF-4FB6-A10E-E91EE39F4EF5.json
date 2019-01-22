@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC1B73E5-57AF-4FB6-A10E-E91EE39F4EF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F14E6D82-A6B5-4D2A-99CD-0CCF89DC5E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03F4A722-F7D9-4EAE-8CA1-95AEA4E99D5D",
+    "height": 14,
+    "width": 14,
+    "x": 1.211538461538471,
+    "y": 5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_clock",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "713226ED-2415-403C-92C4-97E81A2D1811",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8345819-7458-4E67-96FF-C43A9E7A3510",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5392511B-5745-4EEC-81C9-C33F5E36CC83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7375909-95A6-493C-8A7C-0D52693A861F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFF9ED27-660B-4887-A43E-D9EEF6D8D05E",
+    "height": 48,
+    "width": 158,
+    "x": 0,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "03. Buttons / Raised Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3BC27CD-ABE9-46DC-A212-93A3D0359F0A/47D32AA8-9788-438F-B540-FC3747718546/3D51C7F7-1AE1-4313-B785-E5D49B76BD8C_stringValue",
+      "value": "MANAGE LIST"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3BC27CD-ABE9-46DC-A212-93A3D0359F0A/6AD91F61-A99C-4744-B955-E9B62340A55F/F0C8F343-71B0-4BCD-A452-12C8FD62EB03_symbolID",
+      "value": "8476377C-FAC5-4110-BE43-5BD955B3F403"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C5E7926-A9D9-484A-85B1-C0953DD92750",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F221BB74-4803-4805-BFD3-6CAB19F2032C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDE9C1D4-C72A-4583-9F2A-AB0DD6C53F5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA94A362-EA70-4E4F-94F6-CD0BD50CE782",
+      "overrideName": "A8B206CB-C3F9-4C70-AD9B-CE16A6F23166_stringValue",
+      "value": "You just got first applicant for the job below :"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FE98870-F7C4-461A-AF8B-093F8ADB9AB9",
+      "overrideName": "568D327B-ABE6-4B6E-9A3E-31C5576AE8FB_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "507CFA2E-0171-44DB-A17F-977FF287B928",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

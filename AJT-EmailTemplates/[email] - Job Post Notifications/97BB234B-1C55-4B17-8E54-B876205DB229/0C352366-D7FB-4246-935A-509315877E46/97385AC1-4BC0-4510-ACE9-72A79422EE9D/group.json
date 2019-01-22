@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97385AC1-4BC0-4510-ACE9-72A79422EE9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDDB4235-1C56-4B46-B6F1-72BE41690F94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D028EA52-85B7-42EC-9FF7-68BE5519AAC2",
+    "height": 188,
+    "width": 375,
+    "x": -9,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "159B22B1-FDCC-479C-B805-E003843D2721"
+    },
+    {
+      "class": "text",
+      "id": "0CDD5141-321C-4C03-8FAB-5167C3C72B63"
+    },
+    {
+      "class": "text",
+      "id": "A3FFCEA0-3430-435B-8CFA-0846887A85E3"
+    },
+    {
+      "class": "text",
+      "id": "466BA290-EEF3-4D09-827F-907268F61ED9"
+    },
+    {
+      "class": "text",
+      "id": "508A8533-48C5-4F93-BD9B-25ED32300E91"
+    },
+    {
+      "class": "text",
+      "id": "14F5E276-8D69-4669-8FA4-94DEDBF96BCE"
+    },
+    {
+      "class": "text",
+      "id": "816BB88C-2B1E-4C4C-8E7F-5C160136F4C1"
+    },
+    {
+      "class": "text",
+      "id": "595E03F1-0F8D-49D5-8C46-5066DA4A3784"
+    },
+    {
+      "class": "text",
+      "id": "DFB9FE1B-E018-4A48-A72A-0A3B2E1B6D0F"
+    },
+    {
+      "class": "text",
+      "id": "5A298EE5-F18C-45F7-A234-1F5974C22BF6"
+    },
+    {
+      "class": "group",
+      "id": "9A541C55-4B28-4508-ADDA-BEDA5F78EB8C"
+    }
+  ],
+  "name": "list-bill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F44447E8-C242-4DA9-AE41-50359B406C97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

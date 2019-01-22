@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88C44EEF-5CE9-4B52-82D3-0D1C25E69989",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1FD9530-BBA5-4B5A-AE72-1AB595F50D55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1395B427-966B-4C74-A4B0-3D2657305F5C",
+    "height": 237,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "51377C78-5439-4018-9E00-611BB7B26D84"
+    },
+    {
+      "class": "group",
+      "id": "469032D0-BFCA-426B-B807-26EED35825EC"
+    }
+  ],
+  "name": "js-card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5CB3B7E-A8AC-47C8-A74B-CB0B88921091",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

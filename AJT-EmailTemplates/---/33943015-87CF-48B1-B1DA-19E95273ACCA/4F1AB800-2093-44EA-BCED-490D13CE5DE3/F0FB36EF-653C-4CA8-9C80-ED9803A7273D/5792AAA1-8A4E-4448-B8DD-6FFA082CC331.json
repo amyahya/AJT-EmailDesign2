@@ -1,0 +1,127 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.38,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 12.07589285714286
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0.4000000059604645,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 107,
+        "location": 0
+      }
+    ],
+    "string": "© Copyright Agensi Pekerjaan Ajobthing Sdn Bhd \n(Formerly known as Brightan System Sdn Bhd) \nSSM (1036935K)"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5792AAA1-8A4E-4448-B8DD-6FFA082CC331",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AB68336-B6A7-40DF-9739-7943EB4F42AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47100C6C-CA27-460C-9943-2171F2D49411",
+    "height": 48,
+    "width": 490,
+    "x": 34.99999999999998,
+    "y": 22
+  },
+  "glyphBounds": "{{86, 3}, {317, 44}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "legal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "883A4317-6846-4C66-BEBE-13844E484548",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "489BB719-9BA8-4722-A03A-8D5DFC8433F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "13EC2C62-CA93-40E0-90D9-8B629BE8F2A1",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 12.07589285714286
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0.4000000059604645,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

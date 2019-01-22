@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F1AB800-2093-44EA-BCED-490D13CE5DE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9361F825-70CD-466C-B0F5-CAE57542F7A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBE93C67-84AC-44AB-9606-8A63EAD675F7",
+    "height": 182,
+    "width": 560,
+    "x": 105,
+    "y": 970
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8AF49DC7-093E-47C3-946F-38CA1D024066"
+    },
+    {
+      "class": "group",
+      "id": "73C0B604-66E1-4670-8042-A49C2CDA8CD9"
+    },
+    {
+      "class": "group",
+      "id": "F0FB36EF-653C-4CA8-9C80-ED9803A7273D"
+    }
+  ],
+  "name": "desktop / footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCD524FD-3357-4E5F-A799-59120BFAB08E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
