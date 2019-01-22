@@ -1,0 +1,151 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C70FD5F1-90F4-457E-8C7D-B2F6FA22C05B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24994B80-C678-4ECA-9E2C-6FFE13ED67AC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "29862D31-B84F-478D-ADC6-1B3C904AB763",
+    "height": 32,
+    "width": 81,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BF7F0D29-A44C-4857-A589-6E30F21E4549"
+    },
+    {
+      "class": "shapePath",
+      "id": "BFAE1849-D423-4570-A39A-00EE873B9980"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D21910E1-8743-4168-836B-0ACB804DCADE"
+    },
+    {
+      "class": "shapePath",
+      "id": "A81C79B9-C8E4-474F-BD3C-08256D050B02"
+    },
+    {
+      "class": "shapePath",
+      "id": "870750B5-E5D9-47D8-806E-1DBBD20C5EB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A053B2F-B6E9-4D6A-8251-13689A442613"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD3B7B14-0CCC-4E69-9F43-1D6600EF084A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F58BC39F-00E6-4531-A5B2-6606CA329CAA"
+    },
+    {
+      "class": "shapePath",
+      "id": "8BFF45F2-51BD-4194-B2C2-F9C5AEA3BA05"
+    },
+    {
+      "class": "shapePath",
+      "id": "9893F7E4-E0DB-4978-AF0C-7B16205B546A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1285D631-45B5-4876-8E45-5E12C3F9EE6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2D660F2-41DA-41A5-AE05-4B965749B93E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1E05205-DCBA-4E88-876A-9514114F17EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29CED30F-8255-446C-9499-1397E5E4824E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB57A8CC-8964-4EC5-A656-32187BF70BC9"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D91D4C4-D6A1-4CF6-B69A-6E2D7CECDC62"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE94391A-C508-4F35-A98D-AC975550B97B"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FDBD15D-D574-4732-8B0D-4A3D025C0531"
+    }
+  ],
+  "name": "Logo_AJT_white_1 Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58E98653-7C7B-4960-9D45-729F3217FA20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_9c63bd66-ed72-4aa5-a2d2-66f3e68f06bf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 83.59184
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a9166ba4-6a7a-4fee-a4f8-9644c1ee04d3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

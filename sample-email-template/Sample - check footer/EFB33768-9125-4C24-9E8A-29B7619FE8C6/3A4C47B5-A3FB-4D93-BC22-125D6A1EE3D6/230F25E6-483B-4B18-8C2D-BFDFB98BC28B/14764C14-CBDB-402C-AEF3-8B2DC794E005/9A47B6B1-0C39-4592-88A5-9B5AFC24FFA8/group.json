@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A47B6B1-0C39-4592-88A5-9B5AFC24FFA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC1F0944-1B8B-4CC6-ACA9-C04D9FF71B53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DF70971-1DE8-47C1-B1A2-1CF2D175ADCE",
+    "height": 237,
+    "width": 305.0000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1A0C0A69-36DF-47D5-AAD5-321EB445D58F"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDDA6983-D3A8-48EF-ABBD-5BD3FF98A056"
+    },
+    {
+      "class": "group",
+      "id": "2267708A-7746-48AB-9EBD-8D9BA3541E3C"
+    },
+    {
+      "class": "group",
+      "id": "9403CE2A-CF60-442E-B85C-C10387983D2E"
+    }
+  ],
+  "name": "Card_JobseekerProfile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C4E8BA7-D546-4709-B692-7613C7A08D01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

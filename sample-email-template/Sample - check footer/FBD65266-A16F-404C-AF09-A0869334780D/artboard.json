@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AA7BCD9A-578A-475F-B942-BD6DAF9A737D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBD65266-A16F-404C-AF09-A0869334780D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73B66887-E5FE-4553-805D-BDBFEEB855C6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "47A2292B-9810-4C05-ACC4-872339F3558A",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "766D98F5-83DC-44A2-8A15-E61A97D7F403",
+    "height": 1569,
+    "width": 375,
+    "x": -279,
+    "y": 662
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D448CC3F-664C-40C1-BC44-564FB46C68C1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E8C9C649-9DEC-41F0-8F98-6D5D4418821D"
+    },
+    {
+      "class": "group",
+      "id": "5F57168A-7172-4EE6-95EE-F0238E5CFB33"
+    },
+    {
+      "class": "group",
+      "id": "AAA58905-FBB8-4074-B5B3-CD94F66520BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "84312F3C-7912-4FE9-86FC-2F9CCD3CF0B5"
+    },
+    {
+      "class": "group",
+      "id": "73064459-E32D-4127-B581-F065DBC1669C"
+    },
+    {
+      "class": "group",
+      "id": "6D9A82D4-32E0-4C58-8E08-46F5ED074E45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19D8A9AF-ACDE-4B6D-82E6-0068E9C9746F"
+    },
+    {
+      "class": "oval",
+      "id": "49CD2EE0-EAF7-41B0-9D3D-480E238F4132"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8DF19ABF-2E0E-4DA7-B044-2983DB718B54"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "do_objectID": "9DF387B3-61FD-4FF2-BDDB-DF057DE17B46",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Email : Recommend Candidates A - Mobile Locked",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8706ACD-5372-49CD-8333-7C34E8AB181D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "350DDAAC-9441-4769-8625-D2973BD5724D",
+    "guides": [
+    ]
+  }
+}

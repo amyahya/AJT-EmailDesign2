@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F04730E-5275-4D4E-8D9C-FD260F3C36D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C9716E4-A476-4CDC-A8DE-3B1B17A8BAB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "574B2764-5F1B-4B85-A87F-A0D050DD834F",
+    "height": 237,
+    "width": 305,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "778C02D7-4294-4C13-B589-A27B70EAA01D"
+    },
+    {
+      "class": "group",
+      "id": "97EB4FF5-348B-416E-A96C-35B9E9044812"
+    },
+    {
+      "class": "oval",
+      "id": "5F5885FE-3D70-4135-BAEC-EBBF174B31CE"
+    }
+  ],
+  "name": "js-card / email / mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A572915-ADE5-442A-8777-EDE8B48CB21F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

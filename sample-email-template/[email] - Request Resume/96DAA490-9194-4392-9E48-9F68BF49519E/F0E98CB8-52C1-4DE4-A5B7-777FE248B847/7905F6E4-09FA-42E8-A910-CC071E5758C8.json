@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7905F6E4-09FA-42E8-A910-CC071E5758C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7015B0E-B409-4A02-B58C-A0AD7521CA0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C50951D-A0D7-4B8A-921E-29E686BCA910",
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8B206CB-C3F9-4C70-AD9B-CE16A6F23166_stringValue",
+      "value": "There's applicant without resume for the job below : "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "568D327B-ABE6-4B6E-9A3E-31C5576AE8FB_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1051BEE-E7E2-4CD7-9068-9C483FEC3813",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "507CFA2E-0171-44DB-A17F-977FF287B928",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
