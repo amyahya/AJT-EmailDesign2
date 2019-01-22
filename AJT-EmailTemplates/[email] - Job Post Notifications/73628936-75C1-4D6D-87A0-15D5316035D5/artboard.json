@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "53C68300-D2EE-4F33-94F6-F8FE7EDE4F7F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "73628936-75C1-4D6D-87A0-15D5316035D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B67ADE6-9E68-472A-8EE0-5D9A37307BFD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E0C57511-BC36-49E0-86F4-DF840F747BF0",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5042369-3710-465A-8F50-30AA71AD4C66",
+    "height": 1228,
+    "width": 768,
+    "x": -1690,
+    "y": -2610
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F8B6C6EA-8B27-4DF5-8FAA-0145C68DA3B0",
+    "guides": [
+      84,
+      684,
+      108,
+      660
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "33BE9949-71F4-4A37-9A3A-F44CD41BFA59"
+    },
+    {
+      "class": "rectangle",
+      "id": "D29059C9-D5A8-4202-B8ED-AA23B0A65A40"
+    },
+    {
+      "class": "group",
+      "id": "8F9434EF-3A20-42E0-9343-A73E8664AED9"
+    },
+    {
+      "class": "group",
+      "id": "BE823E3A-7BAF-4F99-8435-058EE36588F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "554C2A34-94C2-4CB1-A2F2-97BA2AF6311C"
+    },
+    {
+      "class": "group",
+      "id": "92000592-1C5B-4D26-BE81-BCB8C8C51716"
+    },
+    {
+      "class": "text",
+      "id": "2311A806-3D24-4DDD-A43F-41CE4BA18A59"
+    },
+    {
+      "class": "text",
+      "id": "F4DA1352-977A-4B0E-9E0E-67CAE49A4F97"
+    },
+    {
+      "class": "text",
+      "id": "D6B4A985-007B-45CA-B2CE-43E541E104E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4585F40-9240-4B79-A077-106DFED0E79F"
+    },
+    {
+      "class": "text",
+      "id": "7E6FCA8C-C919-4A40-9281-4A42DD5F4382"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7131B97-0851-435B-91A6-C0193D260F4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A3CBDD1-C4AE-491D-BAFD-A4E632932C68"
+    },
+    {
+      "class": "group",
+      "id": "5368685A-85BD-48D4-BE71-0BB1173DAA32"
+    },
+    {
+      "class": "group",
+      "id": "E0FE53F5-8637-4685-9E68-52FBE8A16AD9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "875D2FC0-11E9-4491-80DE-975713AD0C0D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Email : Job Posted locked  + with booster-  Desktop ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B6B6A21-4393-4314-98B2-9C611B28D3B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D85272CF-644B-48A3-9AE8-60AAFC9165B3",
+    "guides": [
+    ]
+  }
+}

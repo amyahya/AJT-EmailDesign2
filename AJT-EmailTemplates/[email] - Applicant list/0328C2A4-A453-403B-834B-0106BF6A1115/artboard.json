@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "722B7B3C-B4F7-4995-BF2A-76619A35BB0F",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0328C2A4-A453-403B-834B-0106BF6A1115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E35F67B-9B77-4E45-8C36-C3028D2CC082",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3FEEDC9-850C-43A4-B45B-709BD477492E",
+    "height": 1148,
+    "width": 768,
+    "x": 5308,
+    "y": -684
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "234B995E-454D-4C89-AF45-7608C426811E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F8336484-5FFB-4C5A-AC3A-B6DE21B6D142"
+    },
+    {
+      "class": "group",
+      "id": "44911A1A-82E4-4BAD-8838-8D0D4865A795"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99EECE28-3785-4967-8773-E701AD28ED0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2117C759-3968-4696-B155-44B6BE1291FE"
+    }
+  ],
+  "name": "Desktop - Total applicant today",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F347181-5736-47FD-A51D-D2A67C114FD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F62693E3-B4BB-4753-8AF4-873BCA966B54",
+    "guides": [
+    ]
+  }
+}
