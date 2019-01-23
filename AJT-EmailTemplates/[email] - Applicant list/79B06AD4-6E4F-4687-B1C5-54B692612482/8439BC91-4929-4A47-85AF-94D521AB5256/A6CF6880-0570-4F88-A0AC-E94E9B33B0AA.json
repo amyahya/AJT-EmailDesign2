@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0D246252-DE22-45BD-93F9-C2E20A3EC080",
+  "do_objectID": "A6CF6880-0570-4F88-A0AC-E94E9B33B0AA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "447BECA0-A520-40DF-8D4D-A8CF190454AE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 164.9925204918035,
-    "x": 100.265625,
-    "y": 220
+    "do_objectID": "B78E23F5-5162-41A8-80DE-FB5CCD4E11E4",
+    "height": 237,
+    "width": 305,
+    "x": 0,
+    "y": 1090
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Shape / Button / Fill / Basic - Radius: 100",
+  "name": "js-card / email / mobile copy 4",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A8444FB5-925B-462D-81E6-D5E131986AAB",
-      "overrideName": "59BED169-DCB8-4BD5-BFE3-E45DF0561B62_layerStyle",
-      "value": "919BC338-EA3B-411B-8CAD-2F232D2C175A"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7D40D9D6-BE83-42E5-8F5F-CF13B205D669",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BEE67306-2BA4-4AF0-A4F3-71E8E2467732",
+  "symbolID": "FBA1E8CF-D4A4-48EB-95B8-75408A2022F7",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -36,11 +36,11 @@
     "do_objectID": "C3FEEDC9-850C-43A4-B45B-709BD477492E",
     "height": 1536,
     "width": 640,
-    "x": 5308,
+    "x": 6089,
     "y": -684
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

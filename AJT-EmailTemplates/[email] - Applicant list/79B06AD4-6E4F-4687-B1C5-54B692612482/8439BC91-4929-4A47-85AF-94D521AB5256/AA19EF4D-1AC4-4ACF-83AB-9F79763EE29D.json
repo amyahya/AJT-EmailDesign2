@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4838B86C-75F6-4E24-ACC2-71E700EE9223",
+  "do_objectID": "AA19EF4D-1AC4-4ACF-83AB-9F79763EE29D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A6055A50-D257-4B1A-8DD4-E76E27F81961",
+    "do_objectID": "17456796-52AA-46AF-9F17-B9BD3A45F6AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "20286120-A391-4187-9E73-E152D4B71D79",
+    "do_objectID": "CEBA1D38-5DF9-4FD8-9994-DE9A27645AFE",
     "height": 237,
     "width": 305,
-    "x": 1082,
-    "y": 824
+    "x": 0,
+    "y": 827
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "js-card / email / mobile copy 12",
+  "name": "js-card / email / mobile copy 3",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,7 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2141DC98-CFF4-44D9-A7B7-7E1DA1CFD4C8",
+    "do_objectID": "DE3DF72B-5DFD-4181-872D-AFAC9EEF1B1A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
