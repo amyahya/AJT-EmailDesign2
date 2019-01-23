@@ -51,8 +51,8 @@
       "id": "111931F4-EBF7-4C8C-B3EA-3AA83F6ECD08"
     }
   ],
-  "name": "Android Copy",
-  "nameIsFixed": false,
+  "name": "google play store AJT",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 640,

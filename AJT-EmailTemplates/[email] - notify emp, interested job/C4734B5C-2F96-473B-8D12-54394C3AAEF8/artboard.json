@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 1134,
     "width": 1440,
-    "x": -649,
-    "y": 1297
+    "x": -774,
+    "y": 1602
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -131,8 +131,8 @@
       "id": "5B8A7277-EF42-470B-95E6-C1210253C8DB"
     }
   ],
-  "name": "Desktop HD Copy",
-  "nameIsFixed": false,
+  "name": "Desktop - Landing page list interested js",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 723,
     "width": 1440,
-    "x": -649,
-    "y": 2561
+    "x": -774,
+    "y": 2866
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -51,7 +51,7 @@
       "id": "34F71645-59DB-481C-93DF-EDE70FF4B72C"
     }
   ],
-  "name": "Manage Job / ",
+  "name": "Desktop - Manage Job / interested tab",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1924,
+    "height": 2108,
     "width": 360,
     "x": -1037,
     "y": -962
@@ -119,12 +119,20 @@
       "id": "25C1EF6C-D3A0-4A91-8BCB-17A08905B612"
     },
     {
+      "class": "symbolInstance",
+      "id": "9030F448-81A0-4A78-A08D-1E4135FF4221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D4A1804-AA6D-4E82-82B6-FAABAC4F1D2F"
+    },
+    {
       "class": "group",
       "id": "E336875F-CD44-4DB1-AE62-02E2CDD706E1"
     }
   ],
-  "name": "Android",
-  "nameIsFixed": false,
+  "name": "mobile web - landing page list interested js",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 640,

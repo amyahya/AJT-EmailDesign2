@@ -37,10 +37,10 @@
     "height": 1148,
     "width": 640,
     "x": -1512,
-    "y": 1297
+    "y": 1602
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,7 +76,7 @@
       "id": "637647CC-F3CD-4557-8FBF-AE743236B34E"
     }
   ],
-  "name": "Desktop - first applicant Copy",
+  "name": "Desktop - email, list of interested js",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
