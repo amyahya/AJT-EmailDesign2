@@ -34,8 +34,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C3FEEDC9-850C-43A4-B45B-709BD477492E",
-    "height": 1148,
-    "width": 768,
+    "height": 1536,
+    "width": 640,
     "x": 5308,
     "y": -684
   },
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -74,6 +74,30 @@
     {
       "class": "symbolInstance",
       "id": "2117C759-3968-4696-B155-44B6BE1291FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "152A394B-CE43-4C4D-A461-CC7B05E2EFA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1CE5C17-2556-46AC-9054-BA15251C4FD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C3544B7-4169-4F4B-93ED-CD1EF026AF34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0125C08-9EB4-483D-ACED-5106497063E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFE80D9B-9018-47D9-B9FA-D99B9FCA2530"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD0E7264-63BA-47EC-8E56-21A1FFA0C598"
     }
   ],
   "name": "Desktop - Total applicant today",

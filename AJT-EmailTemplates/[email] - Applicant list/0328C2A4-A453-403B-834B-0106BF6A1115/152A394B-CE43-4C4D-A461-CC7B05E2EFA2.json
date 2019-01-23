@@ -1,11 +1,10 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44911A1A-82E4-4BAD-8838-8D0D4865A795",
+  "do_objectID": "152A394B-CE43-4C4D-A461-CC7B05E2EFA2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D1E2FF16-5239-41B7-A912-C73474EFCC34",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,48 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4FC0813C-90DD-47E2-B26D-B12CF96742A4",
-    "height": 807,
-    "width": 431,
-    "x": 21,
-    "y": 414
+    "height": 204,
+    "width": 260,
+    "x": 52,
+    "y": 459
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "23D80634-A700-44FC-8FF8-D1A50F14ED90"
-    },
-    {
-      "class": "group",
-      "id": "1EFB7A29-FF9F-424E-A4AA-9C8844438C7F"
-    }
+  "layerListExpandedType": 0,
+  "name": "js-card / email / mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "body copy",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D6DE2DAB-4977-4FB4-B18D-1F466B124862",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "FBA1E8CF-D4A4-48EB-95B8-75408A2022F7",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }

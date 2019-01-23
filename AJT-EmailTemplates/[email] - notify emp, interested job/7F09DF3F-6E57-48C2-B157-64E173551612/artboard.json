@@ -3,25 +3,16 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9607843137254902,
-    "green": 0.9607843137254902,
-    "red": 0.9607843137254902
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "160594F9-A1A1-4AC0-B29A-FBA847C3DE47",
+  "do_objectID": "7F09DF3F-6E57-48C2-B157-64E173551612",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1148,
-    "width": 768,
-    "x": 6176,
-    "y": -684
+    "height": 600,
+    "width": 360,
+    "x": -577,
+    "y": -962
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,33 +44,21 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2ACAC36E-0FDA-42C5-BD74-00D028CF27CC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "98301772-7FB6-4447-97FF-AA4A7D41454E"
-    },
-    {
-      "class": "group",
-      "id": "E04D992F-CCDA-4F9C-B829-E214C527F880"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1B52235E-4034-42AE-921F-925FFA70E293"
+      "class": "bitmap",
+      "id": "111931F4-EBF7-4C8C-B3EA-3AA83F6ECD08"
     }
   ],
-  "name": "Desktop - first applicant",
-  "nameIsFixed": true,
+  "name": "Android Copy",
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop",
-    "offersLandscapeVariant": 0,
-    "width": 1024
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
   },
   "resizesContent": false,
   "resizingConstraint": 63,

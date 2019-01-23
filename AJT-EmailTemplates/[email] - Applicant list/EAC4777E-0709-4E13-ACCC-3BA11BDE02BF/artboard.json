@@ -3,18 +3,25 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "AAFBB4C4-5A9B-4E0E-92CD-C022D6CCB9E6",
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "41FFD8E2-7CB5-4047-9F7D-DD5B6524A140",
+  "do_objectID": "EAC4777E-0709-4E13-ACCC-3BA11BDE02BF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "76F7B5EB-3830-4A1D-A46E-9748DA29A5A4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,19 +31,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3D274FCD-8633-4751-850D-721E3155015C",
-    "height": 748,
-    "width": 1440,
-    "x": -577,
-    "y": -962
+    "height": 1148,
+    "width": 640,
+    "x": 6176,
+    "y": -684
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "558C8C94-E366-4FA3-8840-1B29241FAF25",
     "guides": [
     ]
   },
@@ -51,18 +56,34 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "94360C36-4F06-45DC-87C5-D7F96F8C89F8"
+      "class": "rectangle",
+      "id": "AF91BDBA-644A-4F36-9371-A2C92365C2C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FA5BBBC-0F20-42E9-AAE4-7C883A45D339"
+    },
+    {
+      "class": "group",
+      "id": "EEB4CC9C-043A-4A80-9DCE-6F35E31102DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4CD5A31-726B-48DC-BFBB-FD12748B625D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9E0CD22-05AF-44B0-84C0-65D160E89305"
     }
   ],
-  "name": "Desktop HD Copy 2",
-  "nameIsFixed": false,
+  "name": "Desktop - first applicant Copy",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "Desktop HD",
+    "name": "Desktop",
     "offersLandscapeVariant": 0,
-    "width": 1440
+    "width": 1024
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +92,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "56DAB9EA-2AAC-49DB-B7CB-6CC801215A6B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -86,7 +106,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2E24ED99-DF1C-44BC-B267-D371286379C7",
     "guides": [
     ]
   }

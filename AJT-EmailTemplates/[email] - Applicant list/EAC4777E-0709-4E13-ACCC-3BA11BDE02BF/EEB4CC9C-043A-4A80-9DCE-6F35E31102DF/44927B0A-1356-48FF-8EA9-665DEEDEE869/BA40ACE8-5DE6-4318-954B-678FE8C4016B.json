@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2EA38925-DE8F-42DB-95FE-73F8F6770130",
+  "do_objectID": "BA40ACE8-5DE6-4318-954B-678FE8C4016B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "93A478F0-279F-41E4-ADF2-E395ACB9B655",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0593639A-6B6A-4FFE-8682-F3A12C7B933B",
-    "height": 237,
-    "width": 305,
-    "x": 0,
-    "y": 38
+    "height": 48,
+    "width": 158,
+    "x": 53,
+    "y": 32
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "js-card / email / mobile",
+  "name": "03. Buttons / Raised Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3BC27CD-ABE9-46DC-A212-93A3D0359F0A/47D32AA8-9788-438F-B540-FC3747718546/3D51C7F7-1AE1-4313-B785-E5D49B76BD8C_stringValue",
+      "value": "ADD BOOSTER"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E3BC27CD-ABE9-46DC-A212-93A3D0359F0A/6AD91F61-A99C-4744-B955-E9B62340A55F/F0C8F343-71B0-4BCD-A452-12C8FD62EB03_symbolID",
+      "value": "8476377C-FAC5-4110-BE43-5BD955B3F403"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,13 +49,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "503387E1-570B-4634-86D4-AD943BC5DACF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FBA1E8CF-D4A4-48EB-95B8-75408A2022F7",
+  "symbolID": "F221BB74-4803-4805-BFD3-6CAB19F2032C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

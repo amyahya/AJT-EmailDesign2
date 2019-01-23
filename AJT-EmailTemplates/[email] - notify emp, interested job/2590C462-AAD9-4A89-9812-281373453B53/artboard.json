@@ -51,8 +51,8 @@
       "id": "34F71645-59DB-481C-93DF-EDE70FF4B72C"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Manage Job / ",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

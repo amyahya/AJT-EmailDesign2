@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98301772-7FB6-4447-97FF-AA4A7D41454E",
+  "do_objectID": "DD0E7264-63BA-47EC-8E56-21A1FFA0C598",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CDF9CE2F-2311-46C9-AC24-F9179BB8805F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 265,
-    "width": 768,
-    "x": 0,
-    "y": 883
+    "do_objectID": "5B5F35ED-A9A0-400F-917C-3D56B6F66AFA",
+    "height": 204,
+    "width": 260,
+    "x": 328,
+    "y": 891
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Footer Desktop",
+  "name": "js-card / email / mobile copy 5",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E875F437-45C7-4153-8B15-A356D2EEB43D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E2CE0B6-069B-4EB0-9EB3-F4FE071F158C",
+  "symbolID": "FBA1E8CF-D4A4-48EB-95B8-75408A2022F7",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
