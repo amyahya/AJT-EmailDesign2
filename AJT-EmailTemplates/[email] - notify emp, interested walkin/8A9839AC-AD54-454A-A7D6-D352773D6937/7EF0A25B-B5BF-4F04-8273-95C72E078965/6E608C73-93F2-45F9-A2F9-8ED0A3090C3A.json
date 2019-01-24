@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E608C73-93F2-45F9-A2F9-8ED0A3090C3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96EEE2BF-E566-4543-B412-8F7EAD303485",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65F3D8B3-CFF8-4662-B418-F6821BA8A947",
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8B206CB-C3F9-4C70-AD9B-CE16A6F23166_stringValue",
+      "value": "There is an interested applicant for walk in interview job below :"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "568D327B-ABE6-4B6E-9A3E-31C5576AE8FB_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EA0E4B3-202B-4ADF-A519-FEC552A9AA7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "507CFA2E-0171-44DB-A17F-977FF287B928",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

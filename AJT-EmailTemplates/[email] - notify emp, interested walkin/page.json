@@ -36,6 +36,30 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "8A9839AC-AD54-454A-A7D6-D352773D6937"
+    },
+    {
+      "class": "artboard",
+      "id": "9CA7F98F-C047-438F-8195-BDF95D45FDA3"
+    },
+    {
+      "class": "artboard",
+      "id": "B59A8629-355C-4CB1-A38B-A5AA8CDFDDC7"
+    },
+    {
+      "class": "artboard",
+      "id": "3BCB2501-93BE-4B0F-BD4A-E2726EF1A4F2"
+    },
+    {
+      "class": "artboard",
+      "id": "57FF31DB-F3B7-4CC6-97D8-13A17FFD17C3"
+    },
+    {
+      "class": "artboard",
+      "id": "DF7C4960-25A7-4FA5-BC53-1FE6A081367F"
+    }
   ],
   "name": "[email] - notify emp, interested walkin",
   "nameIsFixed": true,
@@ -52,6 +76,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

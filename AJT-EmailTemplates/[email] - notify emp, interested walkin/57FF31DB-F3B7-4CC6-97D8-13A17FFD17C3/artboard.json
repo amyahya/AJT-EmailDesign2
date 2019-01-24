@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "638CCE10-41CB-407D-B9F2-67A9BBE36A59",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57FF31DB-F3B7-4CC6-97D8-13A17FFD17C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57378C05-E6C2-4A39-A139-E393786D0E1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F5CD7A2-A939-4214-9679-9CDFD117FF2F",
+    "height": 2108,
+    "width": 360,
+    "x": 257,
+    "y": -1906
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FC2AE8FF-EB5B-4E92-B9D9-78141BAF6295",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D534ADFD-C338-467C-9418-8A99DADBC4A0"
+    },
+    {
+      "class": "rectangle",
+      "id": "620BECBE-DCF9-4D1E-A341-17399D8594EB"
+    },
+    {
+      "class": "text",
+      "id": "7DD6E28D-083A-4666-8D11-588C2071A37D"
+    },
+    {
+      "class": "text",
+      "id": "E8A73A0B-3C7C-4EEF-9276-C856DA030B95"
+    },
+    {
+      "class": "text",
+      "id": "D0EC7C80-85A4-487D-B97E-4F5182E3B51A"
+    },
+    {
+      "class": "text",
+      "id": "66ABF8C9-744C-4F4C-8672-9852D9C42845"
+    },
+    {
+      "class": "text",
+      "id": "C52F44D3-502D-4675-AC16-8411FE574A13"
+    },
+    {
+      "class": "text",
+      "id": "BDA76C44-6B5E-4C43-BE11-B7DA626FA031"
+    },
+    {
+      "class": "text",
+      "id": "6BB629D2-83B6-415A-89B3-E749C6FD8814"
+    },
+    {
+      "class": "text",
+      "id": "DFAE9F4E-35D3-4079-8A28-E328A753497C"
+    },
+    {
+      "class": "text",
+      "id": "28AB9446-E440-4F96-9D3B-A36B674C8AD1"
+    },
+    {
+      "class": "text",
+      "id": "70DCD99C-4FCB-47BF-9A92-62C00BCC8E89"
+    },
+    {
+      "class": "text",
+      "id": "E84F65FA-DA54-484D-A417-EDB8A3CB2ACA"
+    },
+    {
+      "class": "text",
+      "id": "105B74BF-94AF-4677-BB90-B85567275F94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD5E327-4E47-438B-B3C0-853C17AE9942"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67A159E3-9E72-47C6-8E79-D28BBC1DE66B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA6CF1B7-8EAA-4A45-B6CD-9CA837AC3313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "542E8874-46F1-497C-A677-1736FBDC247F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1C76C50-06BB-4109-8480-DDA9D0C12FBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8C44BF1-40B4-4C30-99EF-92737BDA3F99"
+    },
+    {
+      "class": "group",
+      "id": "4E7FB7AF-11F5-4FB9-80A0-7076631C68E1"
+    }
+  ],
+  "name": "mobile web - landing page list interested walkin",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09A349BC-1CAA-46F5-AC4A-D759FFC87FB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F6C3D9FA-E2C2-4E77-B7DF-BD23A51BB53E",
+    "guides": [
+    ]
+  }
+}

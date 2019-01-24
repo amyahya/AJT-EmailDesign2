@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AE822E69-6ABD-45D0-ACA0-BAAA1A27BD25",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BCB2501-93BE-4B0F-BD4A-E2726EF1A4F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBF31A2D-AC01-4A8B-9205-E739C66F841D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "003738B8-A231-4EDE-AEA1-F613FF3F789B",
+    "height": 1134,
+    "width": 1440,
+    "x": 578,
+    "y": 658
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D6249328-F5AD-463A-98F4-156D3AEE7606",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A63F02DF-525F-4B4E-A792-24883A6762B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "1159F602-95EC-495C-8737-2E54995D9FDA"
+    },
+    {
+      "class": "text",
+      "id": "3102D770-6DDE-4692-839C-451CFEDB31C2"
+    },
+    {
+      "class": "text",
+      "id": "01E2A3A4-70FE-4899-9D70-DF7D6053EC49"
+    },
+    {
+      "class": "text",
+      "id": "736AE49D-2FFC-4C8D-BBDF-75763A27BCD4"
+    },
+    {
+      "class": "text",
+      "id": "4E548D8F-F899-489B-9AD8-89320B6300EB"
+    },
+    {
+      "class": "text",
+      "id": "3503B5E7-C51C-46FE-94DF-9E49BF12A392"
+    },
+    {
+      "class": "text",
+      "id": "EAF54D21-3190-454B-8740-7E3C095E78E3"
+    },
+    {
+      "class": "text",
+      "id": "4F288D23-803B-46BF-9920-2DDC2FAFFAC1"
+    },
+    {
+      "class": "text",
+      "id": "8CA2F16F-C7AE-4E08-9958-8170FAAD2983"
+    },
+    {
+      "class": "text",
+      "id": "2675507F-FF92-4430-9A0E-327C4C92C70F"
+    },
+    {
+      "class": "text",
+      "id": "CC587C65-CB43-4C70-A43E-8FC72F1AFC2C"
+    },
+    {
+      "class": "text",
+      "id": "DCD48C87-F47B-4083-93A3-FC0FFE431CB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29DA5018-64B6-4F54-BABC-6C0AA2943F71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BB40094-348F-4C90-A7FD-F35CBF14254D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94ACA13D-AA99-4CD4-B71E-2427D70618D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35CCF6E5-95E3-44ED-9424-F6CE203E3751"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E853B63C-E567-4F34-B50D-1916E2F2DD0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E877A3A7-10B5-4D66-8B2B-6A1B32B2EAAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "749AE3C0-111A-45D7-95F5-5040C5868FD3"
+    },
+    {
+      "class": "group",
+      "id": "AC8CDBF3-724D-4702-BC14-F3E87E93381F"
+    }
+  ],
+  "name": "Desktop - Landing page list interested walkin",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7470321-7534-4CAB-BEE3-37EC63940077",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A3C4C13-0CDB-49E3-9486-38D9C0056992",
+    "guides": [
+    ]
+  }
+}
