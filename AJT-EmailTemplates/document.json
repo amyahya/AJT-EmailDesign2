@@ -35967,7 +35967,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5558,
+        "changeIdentifier": 5573,
         "clippingMaskMode": 0,
         "do_objectID": "E0BB2B53-EB3E-4E4B-B364-45AD260450DB",
         "exportOptions": {
@@ -36375,8 +36375,8 @@
                         "MSAttributedStringFontAttribute": {
                           "_class": "fontDescriptor",
                           "attributes": {
-                            "name": "OpenSans-Regular",
-                            "size": 12
+                            "name": "OpenSans",
+                            "size": 11
                           }
                         },
                         "kerning": 0,
@@ -36425,7 +36425,7 @@
                   "x": 24,
                   "y": 9
                 },
-                "glyphBounds": "{{7, 2}, {258, 60}}",
+                "glyphBounds": "{{12, 3}, {247, 60}}",
                 "hasClippingMask": false,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
@@ -36460,8 +36460,8 @@
                       "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
                         "attributes": {
-                          "name": "OpenSans-Regular",
-                          "size": 12
+                          "name": "OpenSans",
+                          "size": 11
                         }
                       },
                       "kerning": 0,
@@ -36555,7 +36555,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5558,
+        "changeIdentifier": 5573,
         "clippingMaskMode": 0,
         "do_objectID": "E0BB2B53-EB3E-4E4B-B364-45AD260450DB",
         "exportOptions": {
@@ -36963,8 +36963,8 @@
                         "MSAttributedStringFontAttribute": {
                           "_class": "fontDescriptor",
                           "attributes": {
-                            "name": "OpenSans-Regular",
-                            "size": 12
+                            "name": "OpenSans",
+                            "size": 11
                           }
                         },
                         "kerning": 0,
@@ -37013,7 +37013,7 @@
                   "x": 24,
                   "y": 9
                 },
-                "glyphBounds": "{{7, 2}, {258, 60}}",
+                "glyphBounds": "{{12, 3}, {247, 60}}",
                 "hasClippingMask": false,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
@@ -37048,8 +37048,8 @@
                       "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
                         "attributes": {
-                          "name": "OpenSans-Regular",
-                          "size": 12
+                          "name": "OpenSans",
+                          "size": 11
                         }
                       },
                       "kerning": 0,

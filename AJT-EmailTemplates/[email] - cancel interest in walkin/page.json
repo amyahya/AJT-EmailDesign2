@@ -36,6 +36,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "D880C2A7-2CCE-4AA8-B0F7-DC8FBF783C63"
+    },
+    {
+      "class": "artboard",
+      "id": "04514260-4EC4-4B48-806F-E4AA31FD1A2A"
+    }
   ],
   "name": "[email] - cancel interest in walkin",
   "nameIsFixed": true,

@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3F5CD7A2-A939-4214-9679-9CDFD117FF2F",
-    "height": 2108,
+    "height": 2618,
     "width": 360,
     "x": 257,
     "y": -1906
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,10 +103,6 @@
       "id": "E84F65FA-DA54-484D-A417-EDB8A3CB2ACA"
     },
     {
-      "class": "text",
-      "id": "105B74BF-94AF-4677-BB90-B85567275F94"
-    },
-    {
       "class": "symbolInstance",
       "id": "EAD5E327-4E47-438B-B3C0-853C17AE9942"
     },
@@ -128,11 +124,47 @@
     },
     {
       "class": "symbolInstance",
+      "id": "2623EE29-D9A2-4D35-8EE5-19118F406F10"
+    },
+    {
+      "class": "symbolInstance",
       "id": "A8C44BF1-40B4-4C30-99EF-92737BDA3F99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A36DF87A-1506-4785-8933-A5903CC94A79"
     },
     {
       "class": "group",
       "id": "4E7FB7AF-11F5-4FB9-80A0-7076631C68E1"
+    },
+    {
+      "class": "bitmap",
+      "id": "1CEEA194-DD86-493C-B511-0B969BF909D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "7C572E6A-EC2E-439D-B98C-3E6921C76619"
+    },
+    {
+      "class": "rectangle",
+      "id": "8673C589-403C-479E-BDC5-23350755E871"
+    },
+    {
+      "class": "text",
+      "id": "6CDAF5DC-52EF-4417-AD07-59CE368AD1D8"
+    },
+    {
+      "class": "text",
+      "id": "D19257E7-086F-46CE-B48D-683ABD7FB385"
+    },
+    {
+      "class": "text",
+      "id": "A7122512-9AD5-46C0-B65C-5CC49FB5BBD4"
+    },
+    {
+      "class": "bitmap",
+      "id": "78F7DDBE-E90C-4E9B-A4E7-1A53E74ACF62"
     }
   ],
   "name": "mobile web - landing page list interested walkin",

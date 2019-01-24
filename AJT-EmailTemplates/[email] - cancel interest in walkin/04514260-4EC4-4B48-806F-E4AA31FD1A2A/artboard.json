@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "7535EA5C-D72F-495C-8611-0512C5B57B3E",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "04514260-4EC4-4B48-806F-E4AA31FD1A2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71559E5A-4DF7-43AD-97BB-B062747D3B43",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38502B06-56A4-4185-BB1C-F3F3D5E4E545",
+    "height": 1148,
+    "width": 640,
+    "x": -637,
+    "y": 645
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6B69CEB6-D0EC-48D0-8361-FE0CF88B89C1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5F1653BF-48BB-4894-B718-3D76C0F32ECF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C511AA1-03AF-43C2-8EAF-3DD411261622"
+    },
+    {
+      "class": "group",
+      "id": "78051676-64A9-450A-B2B2-662ACC1ECAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE401DA5-8061-4F95-951E-6BADCD72FF24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08BF3D9F-3142-4FAD-8578-987C7590CCBE"
+    }
+  ],
+  "name": "Desktop - cancel interest walkin",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "236439D6-8CA9-4CD7-8C44-90CBBDD1CE9A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ECC743C1-B2D7-4E94-A6EB-70693635D773",
+    "guides": [
+    ]
+  }
+}

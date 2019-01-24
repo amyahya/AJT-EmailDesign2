@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F2C7B517-FA73-4D31-8EA9-A9BBD0DB3F57",
-    "height": 80,
-    "width": 297,
+    "height": 48,
+    "width": 158,
     "x": 32,
-    "y": 395
+    "y": 386
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,10 +31,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "0D0602FC-D01E-4CDC-B8CB-A2004E7DC7ED"
-    },
     {
       "class": "symbolInstance",
       "id": "0C5F7F81-29E6-46F7-BBFE-DBCC1612D414"
