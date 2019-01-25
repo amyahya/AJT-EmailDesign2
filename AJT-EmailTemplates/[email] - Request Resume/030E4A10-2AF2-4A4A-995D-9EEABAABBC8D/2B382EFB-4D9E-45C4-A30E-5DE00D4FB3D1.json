@@ -1,11 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A30380CF-A979-4CFA-A6EB-97C955E3898F",
+  "do_objectID": "2B382EFB-4D9E-45C4-A30E-5DE00D4FB3D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3AE16414-D6E2-458A-8B60-EEA996D23FA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9D20BA39-F6C5-4EEF-A263-8B58FD51D328",
-    "height": 14,
-    "width": 14,
-    "x": 0.2115384615384528,
-    "y": 5
+    "height": 265,
+    "width": 639,
+    "x": 0,
+    "y": 568
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,24 +28,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ic_clock",
+  "name": "Footer Desktop",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "63C7A430-8DFF-4357-8F78-880F67A36E96",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F8345819-7458-4E67-96FF-C43A9E7A3510",
+  "symbolID": "4E2CE0B6-069B-4EB0-9EB3-F4FE071F158C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

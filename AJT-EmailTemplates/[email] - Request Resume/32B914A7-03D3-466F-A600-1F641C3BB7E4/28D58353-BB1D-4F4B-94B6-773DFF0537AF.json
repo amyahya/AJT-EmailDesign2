@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0202E744-591F-4013-914D-E03A5B6E478C",
+  "do_objectID": "28D58353-BB1D-4F4B-94B6-773DFF0537AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 265,
-    "width": 639,
-    "x": 0,
-    "y": 571
+    "height": 24,
+    "width": 24,
+    "x": 30,
+    "y": 274
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Footer Desktop",
+  "name": "Icon/lock-white",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,7 +44,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E2CE0B6-069B-4EB0-9EB3-F4FE071F158C",
+  "symbolID": "74D06BE2-DEBB-4201-9076-D83C3C1ED8A3",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
