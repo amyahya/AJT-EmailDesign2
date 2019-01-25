@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4FC0813C-90DD-47E2-B26D-B12CF96742A4",
-    "height": 409,
-    "width": 642,
-    "x": 63,
-    "y": 421
+    "height": 807,
+    "width": 431,
+    "x": 21,
+    "y": 414
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,19 +29,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "23D80634-A700-44FC-8FF8-D1A50F14ED90"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2EA38925-DE8F-42DB-95FE-73F8F6770130"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C3E4EB8-9EE0-4270-9173-06DCFF5F4D7A"
     },
     {
       "class": "group",

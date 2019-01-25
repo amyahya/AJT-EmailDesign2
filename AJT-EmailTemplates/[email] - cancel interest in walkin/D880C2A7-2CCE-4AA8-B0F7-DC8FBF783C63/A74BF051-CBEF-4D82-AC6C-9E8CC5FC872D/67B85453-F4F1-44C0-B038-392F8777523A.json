@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67B85453-F4F1-44C0-B038-392F8777523A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6068CB86-251B-4253-BC90-F7D9E2847CFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18B4B9A2-57E1-40F3-BD53-289CFA01B6BD",
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8B206CB-C3F9-4C70-AD9B-CE16A6F23166_stringValue",
+      "value": "A candidate just canceled their interest for walk in interview job below :"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "568D327B-ABE6-4B6E-9A3E-31C5576AE8FB_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F9F411E-9636-41D8-8EDD-113A9F1F32B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "507CFA2E-0171-44DB-A17F-977FF287B928",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1582,
+    "height": 2626,
     "width": 360,
     "x": -1037,
     "y": -962
@@ -99,10 +99,6 @@
       "id": "842DF23B-4802-44F4-8F11-C64561850365"
     },
     {
-      "class": "text",
-      "id": "22013BEC-D8E9-469C-82C4-41D5AD5AEB20"
-    },
-    {
       "class": "symbolInstance",
       "id": "3594A630-9CBC-48E9-8CF5-7673F89A82DC"
     },
@@ -119,12 +115,56 @@
       "id": "25C1EF6C-D3A0-4A91-8BCB-17A08905B612"
     },
     {
+      "class": "symbolInstance",
+      "id": "9030F448-81A0-4A78-A08D-1E4135FF4221"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2417ABE9-C2E4-4E8E-B7C5-F2D6CAF6CF19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D4A1804-AA6D-4E82-82B6-FAABAC4F1D2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "469BBDE5-54B1-40C4-A833-A05BF7786B6F"
+    },
+    {
       "class": "group",
       "id": "E336875F-CD44-4DB1-AE62-02E2CDD706E1"
+    },
+    {
+      "class": "text",
+      "id": "4BD78FD4-203D-4BF9-A55A-ACC34DDE65BC"
+    },
+    {
+      "class": "bitmap",
+      "id": "499F8AF7-0E2F-4037-9474-152CF833AC62"
+    },
+    {
+      "class": "bitmap",
+      "id": "F8F098F1-A501-414B-9DD4-3FBC1337812B"
+    },
+    {
+      "class": "bitmap",
+      "id": "E39D584E-4308-47C1-B678-3C711B33CED7"
+    },
+    {
+      "class": "rectangle",
+      "id": "D503C91E-47A6-47DB-9A83-71681B5B75CB"
+    },
+    {
+      "class": "text",
+      "id": "E35A8DD2-138C-4D08-823F-6469DCD1532E"
+    },
+    {
+      "class": "text",
+      "id": "115F64F6-A891-4B2B-A97E-8380FBB6D1E0"
     }
   ],
-  "name": "Android",
-  "nameIsFixed": false,
+  "name": "mobile web - landing page list interested js",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 640,

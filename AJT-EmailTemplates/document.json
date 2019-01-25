@@ -35967,7 +35967,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 7879,
+        "changeIdentifier": 5573,
         "clippingMaskMode": 0,
         "do_objectID": "E0BB2B53-EB3E-4E4B-B364-45AD260450DB",
         "exportOptions": {
@@ -35982,7 +35982,7 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 83,
+          "height": 82,
           "width": 320,
           "x": 878,
           "y": 0
@@ -36030,7 +36030,7 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "C813880E-5973-4A5F-A45A-716EFD1C5777",
-              "height": 80,
+              "height": 82,
               "width": 320,
               "x": 0,
               "y": 0
@@ -36147,7 +36147,7 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "60F20B18-C6FB-484D-B134-2A9A23CB48E1",
-              "height": 80,
+              "height": 82,
               "width": 320,
               "x": 0,
               "y": 0
@@ -36244,10 +36244,10 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "B92DE273-3B79-4C03-BA98-2713612356BC",
-              "height": 72,
-              "width": 272,
-              "x": 24,
-              "y": 11
+              "height": 82,
+              "width": 320,
+              "x": 0,
+              "y": 0
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -36258,6 +36258,105 @@
             "isVisible": true,
             "layerListExpandedType": 2,
             "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "B46DFE8F-58DF-4CAB-9DA7-5EC9D3020A6D",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "8215D09E-E916-4811-AA4D-25BBD38D0D9B",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "4618DC3C-918F-402F-A1C1-9FD039FB842D",
+                  "height": 82,
+                  "width": 320,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 1,
+                "name": "container",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 0,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "do_objectID": "2F3C9EFB-B547-4FF6-83A6-39474428BF12",
+                  "endMarkerType": 0,
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 1
+                },
+                "userInfo": {
+                  "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {
+                    }
+                  }
+                }
+              },
               {
                 "_class": "text",
                 "attributedString": {
@@ -36276,7 +36375,7 @@
                         "MSAttributedStringFontAttribute": {
                           "_class": "fontDescriptor",
                           "attributes": {
-                            "name": "OpenSans-Regular",
+                            "name": "OpenSans",
                             "size": 11
                           }
                         },
@@ -36296,11 +36395,11 @@
                         },
                         "underlineStyle": 0
                       },
-                      "length": 107,
+                      "length": 138,
                       "location": 0
                     }
                   ],
-                  "string": "© Copyright Agensi Pekerjaan Ajobthing SDN BHD  (Formerly known as Brightan System Sdn Bhd)  SSM (1036935K)"
+                  "string": "This email template was sent to you because we want to make the world a better place. You could change your subscription settings anytime."
                 },
                 "automaticallyDrawOnUnderlyingPath": false,
                 "booleanOperation": 0,
@@ -36321,12 +36420,12 @@
                   "_class": "rect",
                   "constrainProportions": false,
                   "do_objectID": "6B3970E2-465E-4237-BFD4-4ED9C92B0BDB",
-                  "height": 72,
+                  "height": 67,
                   "width": 272,
-                  "x": 0,
-                  "y": 0
+                  "x": 24,
+                  "y": 9
                 },
-                "glyphBounds": "{{8, 3}, {256, 43}}",
+                "glyphBounds": "{{12, 3}, {247, 60}}",
                 "hasClippingMask": false,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
@@ -36361,7 +36460,7 @@
                       "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
                         "attributes": {
-                          "name": "OpenSans-Regular",
+                          "name": "OpenSans",
                           "size": 11
                         }
                       },
@@ -36419,7 +36518,7 @@
         ],
         "name": "footer",
         "nameIsFixed": false,
-        "resizesContent": true,
+        "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
         "rotation": 0,
@@ -36456,7 +36555,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 7879,
+        "changeIdentifier": 5573,
         "clippingMaskMode": 0,
         "do_objectID": "E0BB2B53-EB3E-4E4B-B364-45AD260450DB",
         "exportOptions": {
@@ -36471,7 +36570,7 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 83,
+          "height": 82,
           "width": 320,
           "x": 878,
           "y": 0
@@ -36519,7 +36618,7 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "C813880E-5973-4A5F-A45A-716EFD1C5777",
-              "height": 80,
+              "height": 82,
               "width": 320,
               "x": 0,
               "y": 0
@@ -36636,7 +36735,7 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "60F20B18-C6FB-484D-B134-2A9A23CB48E1",
-              "height": 80,
+              "height": 82,
               "width": 320,
               "x": 0,
               "y": 0
@@ -36733,10 +36832,10 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "B92DE273-3B79-4C03-BA98-2713612356BC",
-              "height": 72,
-              "width": 272,
-              "x": 24,
-              "y": 11
+              "height": 82,
+              "width": 320,
+              "x": 0,
+              "y": 0
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -36747,6 +36846,105 @@
             "isVisible": true,
             "layerListExpandedType": 2,
             "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "B46DFE8F-58DF-4CAB-9DA7-5EC9D3020A6D",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "8215D09E-E916-4811-AA4D-25BBD38D0D9B",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 0,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "4618DC3C-918F-402F-A1C1-9FD039FB842D",
+                  "height": 82,
+                  "width": 320,
+                  "x": 0,
+                  "y": 0
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 1,
+                "name": "container",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 0,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "do_objectID": "2F3C9EFB-B547-4FF6-83A6-39474428BF12",
+                  "endMarkerType": 0,
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 1
+                },
+                "userInfo": {
+                  "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {
+                    }
+                  }
+                }
+              },
               {
                 "_class": "text",
                 "attributedString": {
@@ -36765,7 +36963,7 @@
                         "MSAttributedStringFontAttribute": {
                           "_class": "fontDescriptor",
                           "attributes": {
-                            "name": "OpenSans-Regular",
+                            "name": "OpenSans",
                             "size": 11
                           }
                         },
@@ -36785,11 +36983,11 @@
                         },
                         "underlineStyle": 0
                       },
-                      "length": 107,
+                      "length": 138,
                       "location": 0
                     }
                   ],
-                  "string": "© Copyright Agensi Pekerjaan Ajobthing SDN BHD  (Formerly known as Brightan System Sdn Bhd)  SSM (1036935K)"
+                  "string": "This email template was sent to you because we want to make the world a better place. You could change your subscription settings anytime."
                 },
                 "automaticallyDrawOnUnderlyingPath": false,
                 "booleanOperation": 0,
@@ -36810,12 +37008,12 @@
                   "_class": "rect",
                   "constrainProportions": false,
                   "do_objectID": "6B3970E2-465E-4237-BFD4-4ED9C92B0BDB",
-                  "height": 72,
+                  "height": 67,
                   "width": 272,
-                  "x": 0,
-                  "y": 0
+                  "x": 24,
+                  "y": 9
                 },
-                "glyphBounds": "{{8, 3}, {256, 43}}",
+                "glyphBounds": "{{12, 3}, {247, 60}}",
                 "hasClippingMask": false,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
@@ -36850,7 +37048,7 @@
                       "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
                         "attributes": {
-                          "name": "OpenSans-Regular",
+                          "name": "OpenSans",
                           "size": 11
                         }
                       },
@@ -36908,7 +37106,7 @@
         ],
         "name": "footer",
         "nameIsFixed": false,
-        "resizesContent": true,
+        "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
         "rotation": 0,
@@ -55603,8 +55801,8 @@
     ]
   },
   "meta": {
-    "appVersion": "52.6",
-    "build": 67491,
+    "appVersion": "52.5",
+    "build": 67469,
     "version": 112
   },
   "pages": [
