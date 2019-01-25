@@ -63,6 +63,18 @@
     {
       "class": "artboard",
       "id": "B76C64AB-B193-41A1-8A45-48A3B2BC506F"
+    },
+    {
+      "class": "group",
+      "id": "04AC6EC5-BF41-4DCB-945D-5A8D5AB4BE55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3986794-E1F0-46B6-9D86-C58DDEDEB090"
+    },
+    {
+      "class": "group",
+      "id": "9AE27847-0CCA-4299-8CBC-DD7F41B182DA"
     }
   ],
   "name": "[email] - Job Post Notifications",
@@ -80,6 +92,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }
