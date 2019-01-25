@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ADE8191A-7992-4EDF-8736-157EDDADA49C",
-    "height": 270,
+    "height": 290,
     "width": 578,
     "x": -14,
-    "y": 15
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -78,6 +78,10 @@
     {
       "class": "group",
       "id": "A7027424-C2BE-4818-A603-D4C02CAE1222"
+    },
+    {
+      "class": "text",
+      "id": "20352C9B-BAA9-4D19-B35B-1FA6E9C6C550"
     }
   ],
   "name": "list-bill",

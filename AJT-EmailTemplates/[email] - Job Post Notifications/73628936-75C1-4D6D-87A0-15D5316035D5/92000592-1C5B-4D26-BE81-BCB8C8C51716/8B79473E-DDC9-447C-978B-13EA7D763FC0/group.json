@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "946CD7E0-EDDB-47D0-AB07-FBFF753B9AA1",
-    "height": 303,
+    "height": 300,
     "width": 578,
     "x": -14,
-    "y": 15
+    "y": -1
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -57,15 +57,31 @@
     },
     {
       "class": "text",
-      "id": "503E5AF4-2933-4E1F-B65E-7D7C99CC352C"
+      "id": "2A1265AC-9405-4BAD-BA69-86CE731F7753"
+    },
+    {
+      "class": "rectangle",
+      "id": "A25F13B6-7824-43BA-9B05-E9F559ED5A7B"
+    },
+    {
+      "class": "text",
+      "id": "CCCC251B-8A1D-4BCB-A608-469589159D47"
+    },
+    {
+      "class": "text",
+      "id": "78205601-AF0E-4601-9E96-8070CC74E19A"
+    },
+    {
+      "class": "text",
+      "id": "3C584687-AC19-401C-8404-66924CFDE83D"
+    },
+    {
+      "class": "text",
+      "id": "E25CAFB8-FF55-47B1-AF39-3E24BF581ABA"
     },
     {
       "class": "text",
       "id": "AFA589A5-F0A9-4A9C-8472-8C91D6E538E1"
-    },
-    {
-      "class": "text",
-      "id": "E954ADAA-B56B-4AB2-A315-2F53C31AAC5C"
     },
     {
       "class": "text",

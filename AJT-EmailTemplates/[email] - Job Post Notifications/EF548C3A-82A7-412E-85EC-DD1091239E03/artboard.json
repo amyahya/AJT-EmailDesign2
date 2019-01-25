@@ -35,7 +35,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "23A0A75D-A391-4E95-BE30-8845F82CA1E2",
-    "height": 1268,
+    "height": 1357,
     "width": 768,
     "x": -803,
     "y": -2610
@@ -62,7 +62,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -74,7 +74,7 @@
     },
     {
       "class": "group",
-      "id": "739B111A-E1D5-4737-813B-97AC0169418E"
+      "id": "3A6B7946-86B8-41D6-8C29-AC6C83C8D3EE"
     },
     {
       "class": "group",
@@ -91,10 +91,6 @@
     {
       "class": "group",
       "id": "280476C0-5ABD-4730-A97A-EDC84B75D782"
-    },
-    {
-      "class": "text",
-      "id": "55DABEF3-781F-47BA-B362-1BE68DE280B9"
     },
     {
       "class": "shapePath",

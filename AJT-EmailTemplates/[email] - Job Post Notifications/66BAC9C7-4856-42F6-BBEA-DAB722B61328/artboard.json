@@ -35,13 +35,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B77B2D6C-818A-4AAC-B9E9-B27B2266D288",
-    "height": 1410,
+    "height": 1411,
     "width": 375,
     "x": -2920,
     "y": -2610
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

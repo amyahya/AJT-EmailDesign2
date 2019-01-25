@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F91174BF-CE75-47BD-BDE4-94020592FAFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC7C53A9-DF4E-449D-BE0E-5226E5E07F74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33DD52E7-BDB9-4EC8-BAD4-F14E3A173C29",
+    "height": 150,
+    "width": 552,
+    "x": 108,
+    "y": 194
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / JobDetails - 2 col",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E0D130B-ED2A-4D70-B7EB-0500E70F3717",
+      "overrideName": "AA96A4AC-5C74-4406-8592-52A65C9B1D97/D9ADED66-D727-47E9-AE4D-BCD0E3677818_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AADDD455-2E1E-4F01-B04D-6D9E12391FD9",
+      "overrideName": "AA96A4AC-5C74-4406-8592-52A65C9B1D97/84BEF9DD-3721-440F-9F51-ECEE51B7DE1C_stringValue",
+      "value": "Sokongan Teknikal berbahasa Mandarin/Korea ..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "043BEBAC-4EBC-4DF3-B12B-66668FE1B680",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71CD5193-3869-4978-B3B2-2D9D92230FF5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
