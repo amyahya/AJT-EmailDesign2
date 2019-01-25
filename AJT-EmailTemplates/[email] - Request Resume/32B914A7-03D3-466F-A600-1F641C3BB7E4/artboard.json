@@ -150,6 +150,10 @@
     {
       "class": "text",
       "id": "592463BE-5DA1-4875-BE62-19D78780484C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28D58353-BB1D-4F4B-94B6-773DFF0537AF"
     }
   ],
   "layout": {

@@ -90,7 +90,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "593437B9-70D6-4779-84BC-2DF682FE3160",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -109,7 +108,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
           "maximumLineHeight": 24,

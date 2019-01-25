@@ -32,7 +32,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 832,
-    "width": 768,
+    "width": 640,
     "x": 2449,
     "y": -631
   },
@@ -58,10 +58,6 @@
     {
       "class": "rectangle",
       "id": "DBA41F94-61C8-455F-9C93-A5AB1651EBCE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0202E744-591F-4013-914D-E03A5B6E478C"
     },
     {
       "class": "symbolInstance",
@@ -150,6 +146,14 @@
     {
       "class": "group",
       "id": "1C6017DF-FCF9-45DD-836A-06FCD2EB089F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B382EFB-4D9E-45C4-A30E-5DE00D4FB3D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "447BECF0-7706-4D92-BFD7-FA1FB18071B5"
     }
   ],
   "name": "desktop web - resume uploaded",
