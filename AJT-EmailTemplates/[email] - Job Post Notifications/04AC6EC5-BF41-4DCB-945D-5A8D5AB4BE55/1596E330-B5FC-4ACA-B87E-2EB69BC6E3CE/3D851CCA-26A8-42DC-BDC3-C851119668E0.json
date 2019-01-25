@@ -30,71 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 63,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Bold",
-              "size": 20
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 5,
-        "location": 13
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Montserrat-Regular",
-              "size": 20
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 30,
-        "location": 18
       }
     ],
-    "string": "You just got first applicant for the job below :"
+    "string": "Congratulations, your Job Post has been successfully published."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -118,7 +58,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {452, 20}}",
+  "glyphBounds": "{{0, 4}, {403, 43}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "You just got first a",
+  "name": "Congratulations, you",
   "nameIsFixed": false,
   "resizingConstraint": 27,
   "resizingType": 0,

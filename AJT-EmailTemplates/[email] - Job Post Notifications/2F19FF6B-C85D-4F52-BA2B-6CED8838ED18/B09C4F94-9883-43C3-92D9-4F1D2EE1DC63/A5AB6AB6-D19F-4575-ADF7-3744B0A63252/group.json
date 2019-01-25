@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "B07729CF-228F-4534-9EF1-FE2293AA0401",
     "height": 57,
-    "width": 600,
-    "x": 84,
+    "width": 560,
+    "x": 104,
     "y": 0
   },
   "hasClickThrough": false,
@@ -34,10 +34,6 @@
     {
       "class": "rectangle",
       "id": "A72126A7-D7D7-4C2B-B151-E2F730E67A6D"
-    },
-    {
-      "class": "text",
-      "id": "11FE6607-A1C6-45D6-B8C5-20E453F7EBF4"
     }
   ],
   "name": "header",

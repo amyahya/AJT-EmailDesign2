@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "36690A6E-80D5-4216-8506-9094F0B2FC09",
-    "height": 84,
-    "width": 486,
+    "height": 80,
+    "width": 460,
     "x": 0,
     "y": 0
   },
@@ -34,22 +34,6 @@
     {
       "class": "rectangle",
       "id": "8F9AB308-F4CB-4718-B808-CB14BF032A7C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D13242B9-3A82-463F-8158-630A0ECE02F8"
-    },
-    {
-      "class": "text",
-      "id": "445967EE-8E5E-4925-A263-2FD14F3E15FE"
-    },
-    {
-      "class": "text",
-      "id": "9DC23CD5-16A5-4429-8881-F3A713B0CABF"
-    },
-    {
-      "class": "text",
-      "id": "58B0D8EC-E773-4028-9E1F-E5796A11577C"
     }
   ],
   "name": "paragraph",

@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
             "tighteningFactorForTruncation": 0.05
@@ -58,7 +58,7 @@
     "x": 28,
     "y": 76
   },
-  "glyphBounds": "{{194, 4}, {311, 24}}",
+  "glyphBounds": "{{2, 4}, {310, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +98,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
           "tighteningFactorForTruncation": 0.05

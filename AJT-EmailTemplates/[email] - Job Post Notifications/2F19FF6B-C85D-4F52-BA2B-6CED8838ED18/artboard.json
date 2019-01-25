@@ -41,7 +41,7 @@
     "y": -2606
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,10 +83,6 @@
     {
       "class": "group",
       "id": "1D6B60CC-93B3-4F90-BCB9-DD94AFD29031"
-    },
-    {
-      "class": "text",
-      "id": "54AA89FF-642D-4AE3-B916-90C7615A3678"
     },
     {
       "class": "shapePath",

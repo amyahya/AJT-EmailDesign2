@@ -33,11 +33,6 @@
   "name": "Icon / Lock / Fill Copy 4",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "E1B77211-9445-4C5C-B798-87C38E7CD347/7E06FB02-102D-4884-A0A3-F4D4EC03B038_layerStyle",
-      "value": "42FC38CA-0782-4541-961D-586D4FDB88BB"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
