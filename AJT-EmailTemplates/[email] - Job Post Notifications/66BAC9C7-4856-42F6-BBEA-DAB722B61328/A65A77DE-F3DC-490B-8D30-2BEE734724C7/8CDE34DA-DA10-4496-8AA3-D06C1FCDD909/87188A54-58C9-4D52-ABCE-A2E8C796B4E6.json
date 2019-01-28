@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-SemiBold",
-              "size": 16
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -58,7 +58,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 8}, {207, 17}}",
+  "glyphBounds": "{{1, 8}, {233, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,7 +94,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-SemiBold",
-            "size": 16
+            "size": 18
           }
         },
         "paragraphStyle": {
