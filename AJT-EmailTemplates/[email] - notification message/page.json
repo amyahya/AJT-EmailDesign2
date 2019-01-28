@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2590C462-AAD9-4A89-9812-281373453B53",
+  "do_objectID": "F5B4D2C7-BEB8-4263-84ED-D2F2A30FFFEC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,49 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 723,
-    "width": 1440,
-    "x": -774,
-    "y": 4049
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -386,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "34F71645-59DB-481C-93DF-EDE70FF4B72C"
-    }
   ],
-  "name": "Desktop - Manage Job / interested tab",
+  "name": "[email] - notification message",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -80,7 +58,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -439,
     "guides": [
     ]
   }

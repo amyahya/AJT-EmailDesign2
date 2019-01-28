@@ -54554,6 +54554,7 @@
     "[email] - notify emp, interested job",
     "[email] - notify emp, interested walkin",
     "[email] - cancel interest in walkin",
+    "[email] - notification message",
     "Symbols"
   ]
 }
