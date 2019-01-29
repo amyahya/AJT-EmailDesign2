@@ -64,7 +64,7 @@
     "do_objectID": "732014F8-50C4-4375-A96C-A5F441BBEFA7",
     "height": 18,
     "width": 18,
-    "x": 313,
+    "x": 261,
     "y": 108
   },
   "hasClippingMask": false,
@@ -83,7 +83,7 @@
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "do_objectID": "9E1278D3-D5C6-4811-A1E9-F5321990802D",

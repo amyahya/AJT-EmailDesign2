@@ -36,6 +36,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "A9B0DB88-89D9-4E5C-B9B8-EC71E24D0583"
+    }
   ],
   "name": "[email] - notification message",
   "nameIsFixed": true,

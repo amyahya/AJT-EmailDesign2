@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "64D724CF-792B-404D-9B51-B0C5F55E96DA",
+  "do_objectID": "FDF614FD-D070-45E3-9644-B291A41B4E87",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 116,
-    "width": 640,
-    "x": 0,
-    "y": 149
+    "height": 105,
+    "width": 395,
+    "x": 123,
+    "y": 160
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,15 +33,16 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "C525D813-D9A7-481B-B394-ABBAB5C3941B_stringValue",
-      "value": "© Copyright Agensi Pekerjaan Ajobthing Sdn Bhd \n(Formerly known as Brightan System Sdn Bhd) \nSSM (1036935K)"
+      "do_objectID": "3DED95C3-22EC-4019-A7BF-42D3C84B4E8F",
+      "overrideName": "C437E3A0-E5D1-4CD2-94CA-D33C61144578_stringValue",
+      "value": "© Copyright Agensi Pekerjaan Ajobthing Sdn Bhd (Formerly known as Brightan System Sdn Bhd) SSM (1036935K)"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -49,12 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3C89DAED-2E9F-4FEA-A00E-C381E0B7371B",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "235D2396-2C6E-4AC2-96D9-93A7573403C6",
   "verticalSpacing": 0
 }

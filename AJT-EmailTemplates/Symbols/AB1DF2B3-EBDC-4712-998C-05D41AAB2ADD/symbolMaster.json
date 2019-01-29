@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9698,
+  "changeIdentifier": 10439,
   "clippingMaskMode": 0,
   "do_objectID": "AB1DF2B3-EBDC-4712-998C-05D41AAB2ADD",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 91,
+    "height": 105,
     "width": 338,
     "x": -23,
     "y": 0
@@ -55,11 +55,15 @@
     {
       "class": "group",
       "id": "0A518423-A58E-41B8-95B6-4C6187FE881F"
+    },
+    {
+      "class": "text",
+      "id": "18FC706A-9F4E-49A5-AA52-07CFB489E1E3"
     }
   ],
   "name": "footer",
   "nameIsFixed": false,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

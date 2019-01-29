@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0B44F99B-F974-482A-B07A-92DC0EC36337",
+  "do_objectID": "FDE061C6-2A2F-4681-BF9E-623FC589B542",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8215D09E-E916-4811-AA4D-25BBD38D0D9B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4618DC3C-918F-402F-A1C1-9FD039FB842D",
-    "height": 105,
-    "width": 338,
+    "height": 87,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 291
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -32,10 +30,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "container",
-  "nameIsFixed": true,
-  "pointRadiusBehaviour": 0,
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
@@ -84,7 +82,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2F3C9EFB-B547-4FF6-83A6-39474428BF12",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -92,9 +105,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9590210318565369,
-          "green": 0.9596402049064636,
-          "red": 0.9623162150382996
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
         },
         "fillType": 0,
         "isEnabled": true,
