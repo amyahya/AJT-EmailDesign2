@@ -36,8 +36,8 @@
     "constrainProportions": false,
     "do_objectID": "23A0A75D-A391-4E95-BE30-8845F82CA1E2",
     "height": 1357,
-    "width": 768,
-    "x": -803,
+    "width": 640,
+    "x": -946,
     "y": -2610
   },
   "hasBackgroundColor": true,
@@ -74,10 +74,6 @@
     },
     {
       "class": "group",
-      "id": "3A6B7946-86B8-41D6-8C29-AC6C83C8D3EE"
-    },
-    {
-      "class": "group",
       "id": "3EF649BF-4735-4D64-827B-227F188FFB24"
     },
     {
@@ -97,16 +93,20 @@
       "id": "6B13C6C7-5FA3-41FA-9D64-953A7B79F3BD"
     },
     {
-      "class": "symbolInstance",
-      "id": "D71386CF-45A7-4712-A6E0-30C1347D2ABD"
-    },
-    {
       "class": "group",
       "id": "1AC3D32F-7819-4D27-8061-EE9A8CFB77D1"
     },
     {
       "class": "group",
       "id": "853F3395-9E6F-43CE-9780-B74AD98086EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F92F3BE3-41AB-4C1E-9FF5-F79AF97A7C93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1277A68B-F8A0-4E97-B95A-219A7DC86AD4"
     }
   ],
   "layout": {

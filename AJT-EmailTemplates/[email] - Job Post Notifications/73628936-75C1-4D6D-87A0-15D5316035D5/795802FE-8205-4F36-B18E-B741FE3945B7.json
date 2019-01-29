@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "795802FE-8205-4F36-B18E-B741FE3945B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9437FE23-E55D-4AF0-8CBC-C3C42DEB8C2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDF884C1-FB67-4AE4-BA1F-63ED3ED9B7A7",
+    "height": 265,
+    "width": 639,
+    "x": 1,
+    "y": 1129
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer Desktop Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD4A1C59-3EA8-4FE7-A550-13A2DEA81493",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E2CE0B6-069B-4EB0-9EB3-F4FE071F158C",
+  "verticalSpacing": 0
+}
