@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 16
+              "name": "OpenSans-Light",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Full time"
+    "string": "Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DBA12E5-8C33-4101-A005-4984AF20D60E",
+  "do_objectID": "5F1A5865-C097-4928-8C07-43DFC2077E0E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5AA3A24E-30E8-426F-A856-D95208C332D3",
+    "do_objectID": "612149F1-20E8-4D6F-B972-0B13E2F4172A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FE47C16-865F-4587-8FA0-7B6CE0043C52",
-    "height": 25,
-    "width": 380,
-    "x": 75,
-    "y": 263
+    "do_objectID": "F33DAA53-AA9B-4097-A3C5-E344EC75CED4",
+    "height": 21,
+    "width": 48,
+    "x": 79,
+    "y": 160
   },
-  "glyphBounds": "{{1, 4}, {69, 14}}",
+  "glyphBounds": "{{1, 4}, {31, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Full time",
+  "name": "Name Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E50FB195-0234-4AD1-B199-3FEA74BAE3A2",
+    "do_objectID": "FCB4692D-C874-440F-ABE5-035568268837",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "27A89859-54EA-4741-BF4C-C3C8D3913FF8",
+      "do_objectID": "E9DD4B71-991C-48F5-B7FA-321D150EB5A8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 16
+            "name": "OpenSans-Light",
+            "size": 12
           }
         },
         "kerning": 0,

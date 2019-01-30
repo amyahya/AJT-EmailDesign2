@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Bold",
-              "size": 16
+              "name": "Montserrat-SemiBold",
+              "size": 24
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Full time"
+    "string": "Hi Dirty Chicks, Sdn, Bhd,"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DBA12E5-8C33-4101-A005-4984AF20D60E",
+  "do_objectID": "4E4A0CF4-7BB7-4784-9317-7A6B9BCBF78A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5AA3A24E-30E8-426F-A856-D95208C332D3",
+    "do_objectID": "55CBE7CC-1AC8-4D28-A274-DEA34B3B9A90",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FE47C16-865F-4587-8FA0-7B6CE0043C52",
-    "height": 25,
-    "width": 380,
-    "x": 75,
-    "y": 263
+    "do_objectID": "139953AC-2D4C-4498-8E79-D836F2C97037",
+    "height": 29,
+    "width": 431,
+    "x": 46,
+    "y": 85
   },
-  "glyphBounds": "{{1, 4}, {69, 14}}",
+  "glyphBounds": "{{2, 4}, {310, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,21 +69,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Full time",
+  "name": "Hi Dirty Chicks, Sdn Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E50FB195-0234-4AD1-B199-3FEA74BAE3A2",
+    "do_objectID": "3A271BE6-AAA4-4FA9-B152-4EDFEFB579A5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "27A89859-54EA-4741-BF4C-C3C8D3913FF8",
+      "do_objectID": "AC30D27A-2483-47B0-A858-386AECCD95CA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Bold",
-            "size": 16
+            "name": "Montserrat-SemiBold",
+            "size": 24
           }
         },
         "kerning": 0,
@@ -113,7 +113,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

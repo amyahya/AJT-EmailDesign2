@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Job Applied"
+    "string": "Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7C27C3D8-97D2-45D7-99CD-D8D5E70B6454",
+  "do_objectID": "412F7194-F74A-4FB2-B0E4-5781131A55A6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "31C0248E-AFD9-45D0-911F-3990CA3A58EC",
+    "do_objectID": "B0EBFDE5-DD49-4617-9480-F3C848E5252A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2318A89D-40A0-4D1F-8F75-3EC862FE4571",
+    "do_objectID": "3DC44E14-6017-4897-9383-A3531E74AB09",
     "height": 21,
-    "width": 131,
-    "x": 72,
-    "y": 255
+    "width": 92,
+    "x": 125,
+    "y": 149
   },
-  "glyphBounds": "{{-2, 4}, {82, 17}}",
+  "glyphBounds": "{{1, 5}, {41, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Job Applied Copy 2",
+  "name": "Name Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "578571E8-C6EA-4EF6-942F-4671306CE4BC",
+    "do_objectID": "839C2023-68BD-415F-89D7-A09B4CED4EBD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "30E4A18B-371F-4775-810B-9B2302C115D6",
+      "do_objectID": "5D7AB42E-EE6A-47DD-A96E-DB65F8FADB59",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

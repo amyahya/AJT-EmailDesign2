@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 18
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "Full time"
+    "string": "Kota Tinggi, Johor, Malaysia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DBA12E5-8C33-4101-A005-4984AF20D60E",
+  "do_objectID": "20E41CCC-8939-4A7A-BFDE-FE3044822280",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5AA3A24E-30E8-426F-A856-D95208C332D3",
+    "do_objectID": "8D5E5BF7-EF42-45EA-B9C2-0DAC10B35652",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FE47C16-865F-4587-8FA0-7B6CE0043C52",
+    "do_objectID": "AE4817EC-56E9-49A5-8127-1627B67F4761",
     "height": 25,
-    "width": 380,
-    "x": 75,
-    "y": 263
+    "width": 408,
+    "x": 46,
+    "y": 274
   },
-  "glyphBounds": "{{1, 4}, {69, 14}}",
+  "glyphBounds": "{{1, 5}, {246, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Full time",
+  "name": "Kota Tinggi, Johor, Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E50FB195-0234-4AD1-B199-3FEA74BAE3A2",
+    "do_objectID": "74B6F394-D150-4967-9AB8-52A3427897B9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "27A89859-54EA-4741-BF4C-C3C8D3913FF8",
+      "do_objectID": "EDDAF207-C0DD-4D71-9156-F10FD73B9575",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 18
           }
         },
         "kerning": 0,

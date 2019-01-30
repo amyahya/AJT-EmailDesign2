@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 12
+              "size": 14
             }
           },
           "kerning": 0,
@@ -39,10 +39,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5D728B07-2731-4AEB-957F-972D8EA9B36A",
+  "do_objectID": "11DD5DCA-98F9-4878-AA8A-1B3853D99D0B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "488D5363-F821-4721-8F5D-602001DC8187",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 283,
-    "x": 53,
-    "y": 276
+    "do_objectID": "055C538A-4E5F-4227-A1DB-E705DB7BFDDB",
+    "height": 41,
+    "width": 214,
+    "x": 51,
+    "y": 296
   },
-  "glyphBounds": "{{0, 3}, {241, 13}}",
+  "glyphBounds": "{{0, 4}, {210, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sokongan Teknikal Be Copy",
+  "name": "Sokongan Teknikal Be Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,11 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1CA428E5-C4D1-454A-B173-02026404395C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "05E9277B-4EE9-428E-AF2C-E62294A7BA28",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 12
+            "size": 14
           }
         },
         "kerning": 0,

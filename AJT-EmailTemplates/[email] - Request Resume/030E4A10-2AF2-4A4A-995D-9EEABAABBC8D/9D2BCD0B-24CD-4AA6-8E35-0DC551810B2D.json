@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 16
+              "size": 18
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Full time"
+    "string": "Sokongan Teknikal Berbahasa Mandarin"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DBA12E5-8C33-4101-A005-4984AF20D60E",
+  "do_objectID": "9D2BCD0B-24CD-4AA6-8E35-0DC551810B2D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5AA3A24E-30E8-426F-A856-D95208C332D3",
+    "do_objectID": "24FBB3C8-524D-4353-B72C-BFBD0F2C7C82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FE47C16-865F-4587-8FA0-7B6CE0043C52",
-    "height": 25,
-    "width": 380,
-    "x": 75,
-    "y": 263
+    "do_objectID": "5A5083F0-8B8E-4F0E-9BE1-48DD70F6B46D",
+    "height": 41,
+    "width": 408,
+    "x": 72,
+    "y": 286
   },
-  "glyphBounds": "{{1, 4}, {69, 14}}",
+  "glyphBounds": "{{0, 5}, {361, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Full time",
+  "name": "Sokongan Teknikal Be Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E50FB195-0234-4AD1-B199-3FEA74BAE3A2",
+    "do_objectID": "9805D9FC-2A0B-49EB-A1B0-095FB4842417",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "27A89859-54EA-4741-BF4C-C3C8D3913FF8",
+      "do_objectID": "7E64D58E-2A96-443B-838F-E113988BC487",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 16
+            "size": 18
           }
         },
         "kerning": 0,

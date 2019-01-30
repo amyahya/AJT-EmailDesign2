@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Light",
-              "size": 16
+              "name": "OpenSans-Bold",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Location"
+    "string": "Kasumi Misuka"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F73B36B3-CB78-4883-8128-2111D1A58060",
+  "do_objectID": "850CFCF3-25AF-4872-A4A6-04F1A3E3D76F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F7A2AC57-F49D-4294-815C-1892B804BB8B",
+    "do_objectID": "10EC35B1-E7A3-42E0-B0BF-0B227DD3E74C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A442BE84-D8CC-448B-AD72-3E9C8CD97C57",
-    "height": 21,
-    "width": 131,
-    "x": 72,
-    "y": 203
+    "do_objectID": "1B44537C-093C-4CE6-A9A2-D4E8F0C20DFA",
+    "height": 25,
+    "width": 408,
+    "x": 99,
+    "y": 217
   },
-  "glyphBounds": "{{1, 5}, {60, 13}}",
+  "glyphBounds": "{{1, 5}, {135, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Location Copy 2",
+  "name": "Kasumi Misuka Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FCC8FAF1-98A0-4E31-81EC-E7B9B9A28C55",
+    "do_objectID": "FAA7EC7E-F23C-4E6B-B7FF-C55563E559E9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B21E105B-9C29-4416-8FAF-2918F7323011",
+      "do_objectID": "62F47074-B9E3-40A8-8B64-4ABE7178521C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Light",
-            "size": 16
+            "name": "OpenSans-Bold",
+            "size": 18
           }
         },
         "kerning": 0,

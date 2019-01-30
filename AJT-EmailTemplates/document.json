@@ -53425,6 +53425,9 @@
     "[email] - notify emp, interested walkin",
     "[email] - cancel interest in walkin",
     "[email] - notification message",
+    "[email] - forward resume",
+    "[email] - invoice",
+    "[email] - no job reminder",
     "Symbols"
   ]
 }

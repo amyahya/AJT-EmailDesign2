@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Light",
-              "size": 10
+              "name": "OpenSans-Bold",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -30,19 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Name"
+    "string": "Sokongan Teknikal Berbahasa Mandarin"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "35E8ACBC-B523-459E-BD01-21BBC6DD8819",
+  "do_objectID": "612B8538-0D49-4C1C-BF1B-ED11AF89901E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "31AFB106-97E0-4B80-9615-1869DC923EF6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 64,
+    "do_objectID": "1723ECCF-53B6-403D-A411-FD26EBE9AEFC",
+    "height": 41,
+    "width": 214,
     "x": 35,
-    "y": 167
+    "y": 276
   },
-  "glyphBounds": "{{1, 3}, {26, 9}}",
+  "glyphBounds": "{{0, 4}, {210, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name Copy",
+  "name": "Sokongan Teknikal Be Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,11 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F5D0A7BA-29E9-45A7-B1BC-A0C73BABE39F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "BE0A78BB-90E7-4C9A-8881-0358CE19488F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Light",
-            "size": 10
+            "name": "OpenSans-Bold",
+            "size": 14
           }
         },
         "kerning": 0,

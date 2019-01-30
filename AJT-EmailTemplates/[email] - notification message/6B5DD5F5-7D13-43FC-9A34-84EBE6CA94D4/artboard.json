@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B5DD5F5-7D13-43FC-9A34-84EBE6CA94D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 731,
+    "width": 374,
+    "x": -244,
+    "y": -320
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F08B7494-4F9D-45DA-81D0-577F50C8A525"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "319EA1DC-AC8B-433D-AF4B-4AE9C01B1F0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA9E22EB-45BB-424B-83EF-AB59E7AC41EC"
+    },
+    {
+      "class": "rectangle",
+      "id": "5162C95D-C280-404E-AA40-BF700A0CC550"
+    },
+    {
+      "class": "group",
+      "id": "8083DC20-95FE-48B1-B094-868CAB1B696E"
+    },
+    {
+      "class": "group",
+      "id": "52D0EC65-3892-4254-AD9A-D587D32BFB9F"
+    },
+    {
+      "class": "text",
+      "id": "11DD5DCA-98F9-4878-AA8A-1B3853D99D0B"
+    },
+    {
+      "class": "text",
+      "id": "9252B558-9AC4-4013-90E0-B8DE50F34347"
+    },
+    {
+      "class": "text",
+      "id": "BCF38DDA-B4D1-4D23-86FC-DDDF29FBAE10"
+    },
+    {
+      "class": "text",
+      "id": "227474A4-3F69-423B-A81C-669B0CCD71EF"
+    },
+    {
+      "class": "text",
+      "id": "2711E1AC-F332-435D-BA00-5C791A6420F1"
+    },
+    {
+      "class": "text",
+      "id": "BB4E431B-0395-4254-BD80-F9E2D41C5A6E"
+    }
+  ],
+  "name": "Mobile - SMS notification",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

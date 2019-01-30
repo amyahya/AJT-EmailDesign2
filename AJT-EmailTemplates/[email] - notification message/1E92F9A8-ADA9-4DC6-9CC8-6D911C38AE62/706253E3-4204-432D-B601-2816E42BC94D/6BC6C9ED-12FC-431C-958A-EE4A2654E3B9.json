@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Light",
-              "size": 16
+              "name": "Montserrat-Regular",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 62,
         "location": 0
       }
     ],
-    "string": "Name"
+    "string": "An SMS has been sent via A Job Thing to the applicant below : "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F026276D-9C42-4323-9CB8-64587888E8E3",
+  "do_objectID": "6BC6C9ED-12FC-431C-958A-EE4A2654E3B9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CB029915-9BDC-47CF-9401-ADAC5640289E",
+    "do_objectID": "8852EC7F-0426-4D44-8CD2-A7D31A906761",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "79A843C9-2800-4995-9744-9E3C21DA8B32",
-    "height": 21,
-    "width": 131,
-    "x": 72,
-    "y": 148
+    "do_objectID": "EAAE8577-0E95-4D19-A8F0-5086B94C7677",
+    "height": 65,
+    "width": 542,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 5}, {41, 13}}",
+  "glyphBounds": "{{0, 4}, {444, 43}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name Copy 2",
+  "name": "An SMS has been sent",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "780A4CFF-21DA-46F5-909F-41BE49FE2AF5",
+    "do_objectID": "930BDA89-AAD1-4237-9C20-416D1116283D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9BECE264-D2EF-47A3-A79C-FBA01DD9368A",
+      "do_objectID": "2A730753-8B66-4575-91B1-41AC71E6844A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Light",
-            "size": 16
+            "name": "Montserrat-Regular",
+            "size": 20
           }
         },
         "kerning": 0,
@@ -109,7 +109,7 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

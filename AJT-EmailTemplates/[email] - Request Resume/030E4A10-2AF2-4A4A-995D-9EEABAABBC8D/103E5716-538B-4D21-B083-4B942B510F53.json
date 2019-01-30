@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Light",
-              "size": 10
+              "name": "OpenSans-Bold",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -30,19 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Location"
+    "string": "Kasumi Misuka"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A48864BE-9128-4D65-AA77-093F7AD202EF",
+  "do_objectID": "103E5716-538B-4D21-B083-4B942B510F53",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E06931D5-BC53-4B15-9656-F0BD41CB6591",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,12 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 64,
-    "x": 35,
-    "y": 212
+    "do_objectID": "AABC66FD-607E-4A13-A856-F499086C93A7",
+    "height": 25,
+    "width": 408,
+    "x": 125,
+    "y": 169
   },
-  "glyphBounds": "{{1, 3}, {37, 9}}",
+  "glyphBounds": "{{1, 5}, {135, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Location Copy",
+  "name": "Kasumi Misuka Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,11 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E0956D98-4851-48C8-B7D8-EC20A2944C5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "8CE8AC43-A277-4691-B93B-7788C6D1978A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +95,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Light",
-            "size": 10
+            "name": "OpenSans-Bold",
+            "size": 18
           }
         },
         "kerning": 0,

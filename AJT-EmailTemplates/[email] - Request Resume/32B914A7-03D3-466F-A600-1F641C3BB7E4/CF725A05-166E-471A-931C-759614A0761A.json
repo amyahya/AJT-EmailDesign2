@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 18
+              "size": 14
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 36,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "Sokongan Teknikal Berbahasa Mandarin"
+    "string": "Kota Tinggi, Johor, Malaysia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2BFFEC69-C478-4BF0-B182-D47384F0BFFF",
+  "do_objectID": "CF725A05-166E-471A-931C-759614A0761A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EFE33C7B-4CC4-47E5-ADC7-744696CC6C5E",
+    "do_objectID": "B467F2EA-50FC-4A71-A5F2-546373C40F03",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EC742E1A-F045-4605-82D0-ABBC0D6E3A19",
-    "height": 29,
-    "width": 580,
-    "x": 94,
-    "y": 278
+    "do_objectID": "9FDE4814-F462-4F5B-9B15-8357E7C8B5F1",
+    "height": 25,
+    "width": 214,
+    "x": 35,
+    "y": 227
   },
-  "glyphBounds": "{{0, 5}, {361, 19}}",
+  "glyphBounds": "{{1, 4}, {191, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sokongan Teknikal Be Copy 2",
+  "name": "Kota Tinggi, Johor, Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5B86F585-23A8-4068-9B56-31B595A1C875",
+    "do_objectID": "539FE304-1DAA-4A09-BAA3-37FDDD1FCBAF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2379AC5A-63FA-4CBB-92A8-0E16F204BB19",
+      "do_objectID": "97A3B0D1-D634-4B1E-AB1E-1E2E0CEBC228",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 18
+            "size": 14
           }
         },
         "kerning": 0,

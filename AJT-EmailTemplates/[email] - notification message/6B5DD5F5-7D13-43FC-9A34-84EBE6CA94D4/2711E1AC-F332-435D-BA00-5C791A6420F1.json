@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Bold",
-              "size": 18
+              "size": 14
             }
           },
           "kerning": 0,
@@ -30,20 +30,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Kasu*****"
+    "string": "Kasumi Misuka"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "772857A5-2579-4AC9-A00F-5C1B9985E826",
+  "do_objectID": "2711E1AC-F332-435D-BA00-5C791A6420F1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "07910D91-D7B8-4F56-B7E1-A7BE897A4062",
+    "do_objectID": "2DD5968F-E7DD-4D11-9E9C-580F6E475040",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,13 +54,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4307B203-1620-4C38-998D-410F8634E97D",
+    "do_objectID": "04F21A43-2646-4414-A3BF-B4F2E0C80678",
     "height": 25,
-    "width": 131,
-    "x": 72,
-    "y": 169
+    "width": 214,
+    "x": 97,
+    "y": 196
   },
-  "glyphBounds": "{{1, 5}, {92, 15}}",
+  "glyphBounds": "{{1, 4}, {105, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Kasu***** Copy 2",
+  "name": "Kasumi Misuka",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,13 +77,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A1E71D56-5850-4261-B99C-DE2349C62C29",
+    "do_objectID": "A09DAD92-A012-4FDA-88CD-13DB5B765A5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8C961016-6FF9-45B7-9D4D-B00D716E7CBF",
+      "do_objectID": "53CCEE04-5111-47BE-BE82-1981A514BCEB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -96,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Bold",
-            "size": 18
+            "size": 14
           }
         },
         "kerning": 0,
