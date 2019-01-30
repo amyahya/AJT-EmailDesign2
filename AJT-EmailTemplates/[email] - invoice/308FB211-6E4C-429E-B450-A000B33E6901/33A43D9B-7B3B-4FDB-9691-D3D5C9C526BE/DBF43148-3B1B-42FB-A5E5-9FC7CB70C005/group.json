@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBF43148-3B1B-42FB-A5E5-9FC7CB70C005",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C65FA85A-5003-4695-A46E-A9C9D726C1B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AC5E121-3B95-4F88-AAB6-A2E10B6FDFF9",
+    "height": 188,
+    "width": 375,
+    "x": -9,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "17DB21AE-A123-4C75-AFEC-F579C1FBCA40"
+    },
+    {
+      "class": "text",
+      "id": "98C87020-056B-4E95-8390-E809466D370C"
+    },
+    {
+      "class": "text",
+      "id": "E35FE06A-FE73-4BD0-9F0C-1EC13A950AEC"
+    },
+    {
+      "class": "text",
+      "id": "E44C156C-9FB8-40E8-8C79-CAD29A1FC280"
+    },
+    {
+      "class": "text",
+      "id": "5A12DEDF-B4EA-4F6C-8277-F65721539CCA"
+    },
+    {
+      "class": "text",
+      "id": "5119D733-21C1-4361-949E-11B2F5F39437"
+    },
+    {
+      "class": "text",
+      "id": "5FDED967-1EAB-445C-B270-43A46A9F14A6"
+    },
+    {
+      "class": "text",
+      "id": "79F6EAA2-0DB1-4CC6-BDE3-D343B656F9A3"
+    },
+    {
+      "class": "text",
+      "id": "23E8E71D-13D3-44B9-991F-973C0D5497E5"
+    },
+    {
+      "class": "text",
+      "id": "79E8C43B-19DA-4A95-BCF4-50211077B130"
+    },
+    {
+      "class": "group",
+      "id": "4A364836-51A2-4172-81B9-3D67720E4FDC"
+    }
+  ],
+  "name": "list-bill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47910F18-E4E9-4FA2-A230-BD7563666D8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

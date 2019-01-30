@@ -36,6 +36,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "B3325BCD-EB26-4F88-9325-1723DDCC4CBB"
+    },
+    {
+      "class": "artboard",
+      "id": "1251B408-B767-4C9C-9C50-B250DCCC0E0B"
+    }
   ],
   "name": "[email] - forward resume",
   "nameIsFixed": true,

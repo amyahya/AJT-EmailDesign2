@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "53B75317-E5B3-4314-A20B-5FF254892C27",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B76C64AB-B193-41A1-8A45-48A3B2BC506F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D228A596-D8DF-4F4A-BB86-2ADD420F7C7C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E0C57511-BC36-49E0-86F4-DF840F747BF0",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E58052B-172C-43B5-B0D1-79604A88BC2C",
+    "height": 1568,
+    "width": 640,
+    "x": -202,
+    "y": -2606
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2C12AFD9-C246-4692-A236-CA83DD7F7B7D",
+    "guides": [
+      84,
+      684,
+      108,
+      660
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "71CD9BF9-AD80-4608-9542-B1A991634B82"
+    },
+    {
+      "class": "group",
+      "id": "7965C51A-C7B7-45ED-AC99-D6C5ADBB2F2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "AAB3AFA1-1E37-40C3-A79F-219F6411592B"
+    },
+    {
+      "class": "group",
+      "id": "98FE2CF6-7391-43B0-808D-8E274825B3B8"
+    },
+    {
+      "class": "group",
+      "id": "CB3E9232-6DC0-4780-B4F8-CEDDFD2F7C36"
+    },
+    {
+      "class": "group",
+      "id": "30195075-B507-4B14-AC2E-6C377C4F6CAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26266911-9D39-4795-8ECE-5083FBBC2EDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "635CB0CF-A447-414D-9F23-22A7CBC3A98D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "5423A01E-6928-432C-866F-68B18679CF5F",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Email : Job Posted unlocked with Booster -  Desktop ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A79FCE9D-980B-45C5-A2DB-001F3DCC3A30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "10FA615D-E8AF-474B-96C7-A2E1C794876D",
+    "guides": [
+    ]
+  }
+}

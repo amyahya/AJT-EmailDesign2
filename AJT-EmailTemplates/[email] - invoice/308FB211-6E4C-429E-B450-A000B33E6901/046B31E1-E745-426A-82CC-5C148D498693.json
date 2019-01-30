@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "046B31E1-E745-426A-82CC-5C148D498693",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04DAB655-D4E1-465C-8654-776A88A1D727",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E32715F3-8D47-40DE-831A-9C7749C24CC8",
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - M - UNLOCK",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "12996C08-CBB6-44B3-89CE-2F8D919A0100_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C805FCB7-F304-4C76-8183-8C373D726094",
+      "overrideName": "86CD8A82-3897-4A2F-AFF0-98D4B19CB524_stringValue",
+      "value": "Here is the invoice for your recent payment for the job below :"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFA49364-0662-41EA-A949-C5B57CE3D4A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B5CE764-1FDA-4F01-83AA-F33555980C83",
+  "verticalSpacing": 0
+}

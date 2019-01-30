@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EA61A40-38F3-4332-BB98-05A85A2A73B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -512,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "66BAC9C7-4856-42F6-BBEA-DAB722B61328"
+    },
+    {
+      "class": "artboard",
+      "id": "2F19FF6B-C85D-4F52-BA2B-6CED8838ED18"
+    },
+    {
+      "class": "artboard",
+      "id": "73628936-75C1-4D6D-87A0-15D5316035D5"
+    },
+    {
+      "class": "artboard",
+      "id": "EF548C3A-82A7-412E-85EC-DD1091239E03"
+    },
+    {
+      "class": "artboard",
+      "id": "B76C64AB-B193-41A1-8A45-48A3B2BC506F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "[email] - Job Post Notifications + invoice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "__XCODE_PLUGIN_IDENTIFIER__": {
+      "__XCODE_PLUGIN_IDENTIFIER__:docExportOptions": {
+        "exportDensity": 1,
+        "includeFlows": 0
+      }
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.proto.overflow-test1": {
+      "docUUID": "47D8CE95-5525-4928-B33F-60A865054134"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -470,
+    "guides": [
+    ]
+  }
+}

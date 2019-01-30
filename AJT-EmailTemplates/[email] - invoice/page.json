@@ -36,6 +36,30 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "308FB211-6E4C-429E-B450-A000B33E6901"
+    },
+    {
+      "class": "artboard",
+      "id": "2E621AD4-E179-4943-AE41-689CC146A804"
+    },
+    {
+      "class": "artboard",
+      "id": "285E8910-9B01-49EB-B653-A4D116130252"
+    },
+    {
+      "class": "artboard",
+      "id": "E43C328D-CDE5-45E1-BA17-F97AD8CE6446"
+    },
+    {
+      "class": "artboard",
+      "id": "D0FAFA0D-21E6-4870-8793-2A84C387EBE7"
+    },
+    {
+      "class": "artboard",
+      "id": "B9C81E07-A8B7-4B4E-9729-427D2BF38080"
+    }
   ],
   "name": "[email] - invoice",
   "nameIsFixed": true,
