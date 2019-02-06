@@ -42,7 +42,31 @@
     },
     {
       "class": "artboard",
+      "id": "88EF52DF-918C-4ADB-94FC-CB2101A52762"
+    },
+    {
+      "class": "artboard",
+      "id": "F54F8963-9E19-49B3-B664-3A96E41B5280"
+    },
+    {
+      "class": "artboard",
+      "id": "24C59147-B774-484E-AA81-EB169FB2C28C"
+    },
+    {
+      "class": "artboard",
+      "id": "10F2F1B3-1112-456B-8872-34BF2C6D96F8"
+    },
+    {
+      "class": "artboard",
       "id": "68D1512F-2995-48EC-BA28-217DD7F3152F"
+    },
+    {
+      "class": "artboard",
+      "id": "9CDD74B5-78F8-4C82-B62F-8E575DC5FDE1"
+    },
+    {
+      "class": "artboard",
+      "id": "505D6A45-1D5E-447A-8F89-37E4EC07871C"
     },
     {
       "class": "artboard",
@@ -84,6 +108,7 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
       "kModelPropertiesKey": {
       }
     }

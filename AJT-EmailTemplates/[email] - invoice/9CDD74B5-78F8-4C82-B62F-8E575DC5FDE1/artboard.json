@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CDD74B5-78F8-4C82-B62F-8E575DC5FDE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1437,
+    "width": 375,
+    "x": -3382,
+    "y": 4466
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8CCF8C94-6907-4053-B296-BF07F93D0522"
+    },
+    {
+      "class": "group",
+      "id": "5FCB18A9-7DF0-4A47-BF76-4CE74365ECEA"
+    },
+    {
+      "class": "group",
+      "id": "8826D430-78E8-4E84-A5FB-34B94FD515F5"
+    },
+    {
+      "class": "text",
+      "id": "ED12336E-D9CE-4EEA-AFB2-F11129CD5DB3"
+    },
+    {
+      "class": "text",
+      "id": "9020AD02-D726-4A2A-BAA0-ED493ED6BE08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0160E56B-4C5C-4987-9444-F63644B411A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "511DD910-ED56-4238-AB22-EC529CB6E7AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "790916D8-881C-48BF-BFA4-BCD4BAA5D20E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B0BCDE4-230A-4A61-A5D9-7F1B300B2093"
+    },
+    {
+      "class": "group",
+      "id": "154D015D-C968-455B-91EB-1598BD3DEAED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Email : invoice unlock job - Mobile Copy 4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

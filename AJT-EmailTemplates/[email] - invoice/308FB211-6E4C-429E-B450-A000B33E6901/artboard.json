@@ -34,9 +34,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "12CF88D4-194E-4A85-8977-B1BBE016FA3F",
-    "height": 1325,
+    "height": 1455,
     "width": 375,
-    "x": -1445,
+    "x": -2922,
     "y": 1056
   },
   "hasBackgroundColor": true,
@@ -70,14 +70,6 @@
     {
       "class": "group",
       "id": "33A43D9B-7B3B-4FDB-9691-D3D5C9C526BE"
-    },
-    {
-      "class": "text",
-      "id": "DBA1571B-7E25-4E50-B7EE-E5667F89F2BF"
-    },
-    {
-      "class": "text",
-      "id": "C1D9622B-72C2-4549-9A90-D3DC055255AB"
     },
     {
       "class": "symbolInstance",
