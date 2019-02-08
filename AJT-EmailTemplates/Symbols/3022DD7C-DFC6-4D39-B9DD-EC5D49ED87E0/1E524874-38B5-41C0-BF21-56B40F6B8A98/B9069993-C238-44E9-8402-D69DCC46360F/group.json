@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8671C3BB-2B0E-48F4-B795-1FBD2EEAB852",
-    "height": 376,
+    "height": 378,
     "width": 375,
     "x": 0,
     "y": 0
@@ -32,12 +32,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "18DC7000-4CA1-4AC3-B07C-FDE011797030"
-    },
-    {
       "class": "group",
       "id": "1D2DEFE8-841A-473A-9EFC-CBF05BE616C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18DC7000-4CA1-4AC3-B07C-FDE011797030"
     }
   ],
   "name": "footer copy",

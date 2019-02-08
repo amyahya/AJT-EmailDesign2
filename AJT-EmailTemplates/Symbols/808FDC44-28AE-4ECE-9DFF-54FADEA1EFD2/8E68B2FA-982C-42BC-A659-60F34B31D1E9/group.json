@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 265,
-    "width": 640,
-    "x": 0,
+    "height": 127,
+    "width": 536,
+    "x": 52,
     "y": 0
   },
   "hasClickThrough": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -50,8 +50,8 @@
       "id": "2C823868-4C4A-448B-AD16-70D54F9EC660"
     },
     {
-      "class": "symbolInstance",
-      "id": "64D724CF-792B-404D-9B51-B0C5F55E96DA"
+      "class": "text",
+      "id": "387876EC-6B4A-44FC-A024-74552DF83418"
     },
     {
       "class": "symbolInstance",
@@ -60,10 +60,6 @@
     {
       "class": "symbolInstance",
       "id": "771067F2-1B7F-41F0-9F5C-AB0A70E5C1C8"
-    },
-    {
-      "class": "text",
-      "id": "387876EC-6B4A-44FC-A024-74552DF83418"
     }
   ],
   "name": "Footer",

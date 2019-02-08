@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4712,
+  "changeIdentifier": 4714,
   "clippingMaskMode": 0,
   "do_objectID": "313414AC-5007-4492-BDA4-AE3B5EFB7289",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 524
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "318502AC-E1FC-4602-9C90-AF8A4080E6F0"
     }
   ],
-  "name": "Header - 2",
-  "nameIsFixed": false,
+  "name": "Header - M",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

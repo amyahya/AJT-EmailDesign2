@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E92F9A8-ADA9-4DC6-9CC8-6D911C38AE62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 679,
+    "width": 640,
+    "x": 196,
+    "y": -320
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "37FA0E7C-ABD5-4495-8A2E-2DA329B5056B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0247450-0A1B-4FB9-BD1D-54BC997D0334"
+    },
+    {
+      "class": "rectangle",
+      "id": "A0CBE2E2-C493-4585-87E6-496545EDFEC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C3D25CC-4DA7-4976-BEFA-8D0FA2883D5C"
+    },
+    {
+      "class": "group",
+      "id": "706253E3-4204-432D-B601-2816E42BC94D"
+    },
+    {
+      "class": "text",
+      "id": "4E4A0CF4-7BB7-4784-9317-7A6B9BCBF78A"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C716253-C05D-4010-B111-E3DF8E5352F1"
+    },
+    {
+      "class": "text",
+      "id": "8EF69129-294B-416F-8F1C-8D5F43467C8A"
+    },
+    {
+      "class": "text",
+      "id": "B01DC197-7E0D-4D34-B07A-A951137BD164"
+    },
+    {
+      "class": "text",
+      "id": "F3B5AF08-662E-4AB3-B512-B646A68E0199"
+    },
+    {
+      "class": "text",
+      "id": "02A5F600-E166-4B4E-8819-43A173558E9C"
+    },
+    {
+      "class": "text",
+      "id": "850CFCF3-25AF-4872-A4A6-04F1A3E3D76F"
+    },
+    {
+      "class": "text",
+      "id": "20E41CCC-8939-4A7A-BFDE-FE3044822280"
+    }
+  ],
+  "name": "Desktop - SMS Notification",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "71097C85-9D25-4146-ADD6-99A7CFC18B01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 298,
+    "width": 375,
+    "x": 0,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - M - UNLOCK",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "540077B1-081E-45DC-A9E5-5C4C8FFA192C",
+      "overrideName": "12996C08-CBB6-44B3-89CE-2F8D919A0100_stringValue",
+      "value": "Sokongan Teknikal Berbahasa Mandarin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAB86BDE-AFBC-4CBC-A7A7-8031ECD7BA0B",
+      "overrideName": "86CD8A82-3897-4A2F-AFF0-98D4B19CB524_stringValue",
+      "value": "You have successfully post a job. Here is the invoice for the job below:"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B5CE764-1FDA-4F01-83AA-F33555980C83",
+  "verticalSpacing": 0
+}

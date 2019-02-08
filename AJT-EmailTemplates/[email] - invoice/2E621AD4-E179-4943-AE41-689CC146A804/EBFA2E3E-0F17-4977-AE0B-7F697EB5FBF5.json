@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBFA2E3E-0F17-4977-AE0B-7F697EB5FBF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DE568B7-BD4B-4E73-A3EF-AC4EA6CCD0BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B64378E-C066-4ECB-AA6F-8041870AC306",
+    "height": 384,
+    "width": 639,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header Desktop UNLOCK",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A74B7D27-2926-4E60-8FB7-5D569134F02B",
+      "overrideName": "F4ED410E-782E-4DFA-9043-54C2A46725F1_stringValue",
+      "value": "Here is the invoice for your recent payment for the job below :"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86C2ADFF-EF81-41F6-B8B6-2641B7FA35E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BEEBAD36-32FE-4008-979D-5401569E7C90",
+  "verticalSpacing": 0
+}

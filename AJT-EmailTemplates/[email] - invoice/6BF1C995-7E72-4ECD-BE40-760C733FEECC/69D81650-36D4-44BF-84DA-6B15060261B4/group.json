@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69D81650-36D4-44BF-84DA-6B15060261B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 165,
+    "width": 640,
+    "x": 0,
+    "y": 878
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F878DA2B-8824-4134-8C88-14D1DC1E293E"
+    },
+    {
+      "class": "text",
+      "id": "C9029C32-7413-4040-8ECE-CAA20FB4EEE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "256C6EFB-6023-440A-A148-3F055AE60DC5"
+    },
+    {
+      "class": "text",
+      "id": "CC8C4641-300D-4CFA-A83D-81BBF4EE3772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93E3505D-9804-40E7-AD3C-655CC25425BE"
+    }
+  ],
+  "name": "Banner Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

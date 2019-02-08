@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E43C328D-CDE5-45E1-BA17-F97AD8CE6446",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1327,
+    "width": 640,
+    "x": -2304,
+    "y": -784
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4B8B8F88-CA36-4845-A199-DB57EA175A4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "DE610A97-BC25-400B-B1FF-8C8728C4BDD9"
+    },
+    {
+      "class": "group",
+      "id": "D43E962D-3100-4CB0-8B66-B97705554D1B"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB179844-CF3E-4D41-A33F-8A066310F2C7"
+    },
+    {
+      "class": "group",
+      "id": "35F689F0-FE4A-4D8E-A69A-94202FB028C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "706489CB-5524-44E0-9E6A-2BBF6D1063B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7114C79F-3395-495D-96C9-2B5308660FE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF16BE48-5779-4F3F-8E39-1B9F739BD26B"
+    },
+    {
+      "class": "group",
+      "id": "A08501A6-A709-4BF8-BC75-30DAF19CA4B5"
+    },
+    {
+      "class": "group",
+      "id": "59F9A7EF-6890-4BB7-9383-72E755023C14"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 4,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Email : invoice add booster but locked- Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -109,30 +109,6 @@
     },
     {
       "class": "text",
-      "id": "2BFFEC69-C478-4BF0-B182-D47384F0BFFF"
-    },
-    {
-      "class": "text",
-      "id": "F026276D-9C42-4323-9CB8-64587888E8E3"
-    },
-    {
-      "class": "text",
-      "id": "F73B36B3-CB78-4883-8128-2111D1A58060"
-    },
-    {
-      "class": "text",
-      "id": "7C27C3D8-97D2-45D7-99CD-D8D5E70B6454"
-    },
-    {
-      "class": "text",
-      "id": "772857A5-2579-4AC9-A00F-5C1B9985E826"
-    },
-    {
-      "class": "text",
-      "id": "5F98F452-44B2-4990-871A-A7D63FB76E06"
-    },
-    {
-      "class": "text",
       "id": "759DC4A4-7183-48D8-A641-15976770E41E"
     },
     {
@@ -152,8 +128,32 @@
       "id": "2B382EFB-4D9E-45C4-A30E-5DE00D4FB3D1"
     },
     {
-      "class": "symbolInstance",
-      "id": "447BECF0-7706-4D92-BFD7-FA1FB18071B5"
+      "class": "rectangle",
+      "id": "70166ECD-4F36-4ABD-904A-EE5BA413FDB6"
+    },
+    {
+      "class": "text",
+      "id": "9D2BCD0B-24CD-4AA6-8E35-0DC551810B2D"
+    },
+    {
+      "class": "text",
+      "id": "412F7194-F74A-4FB2-B0E4-5781131A55A6"
+    },
+    {
+      "class": "text",
+      "id": "CA1FF846-399E-4BC3-A779-FE673292539A"
+    },
+    {
+      "class": "text",
+      "id": "2FCB13FB-BD8E-49CC-AA92-1A10C786468F"
+    },
+    {
+      "class": "text",
+      "id": "103E5716-538B-4D21-B083-4B942B510F53"
+    },
+    {
+      "class": "text",
+      "id": "6D7C002C-D29B-4E92-B70B-976D684F9B21"
     }
   ],
   "name": "desktop web - resume uploaded",

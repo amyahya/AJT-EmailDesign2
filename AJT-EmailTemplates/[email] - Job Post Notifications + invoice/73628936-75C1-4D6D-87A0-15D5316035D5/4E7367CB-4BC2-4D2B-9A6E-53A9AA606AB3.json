@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E7367CB-4BC2-4D2B-9A6E-53A9AA606AB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6E8617B-01F6-4CFB-8624-5D7C58086C9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F816A839-7111-48FF-9D85-F73F9F740111",
+    "height": 384,
+    "width": 639,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header Desktop UNLOCK Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A656839-F370-4BB4-BD5D-8042BCD31801",
+      "overrideName": "F4ED410E-782E-4DFA-9043-54C2A46725F1_stringValue",
+      "value": "You have successfully post a job. Here is the invoice for the job below:"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "500B8F7A-00EC-4290-99A5-D1CB751F2C70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BEEBAD36-32FE-4008-979D-5401569E7C90",
+  "verticalSpacing": 0
+}

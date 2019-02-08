@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A39A50F3-82CD-4D4C-8C9C-7A7BE7AC8546",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -552,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "308FB211-6E4C-429E-B450-A000B33E6901"
+    },
+    {
+      "class": "artboard",
+      "id": "88EF52DF-918C-4ADB-94FC-CB2101A52762"
+    },
+    {
+      "class": "artboard",
+      "id": "F54F8963-9E19-49B3-B664-3A96E41B5280"
+    },
+    {
+      "class": "artboard",
+      "id": "24C59147-B774-484E-AA81-EB169FB2C28C"
+    },
+    {
+      "class": "artboard",
+      "id": "10F2F1B3-1112-456B-8872-34BF2C6D96F8"
+    },
+    {
+      "class": "artboard",
+      "id": "68D1512F-2995-48EC-BA28-217DD7F3152F"
+    },
+    {
+      "class": "artboard",
+      "id": "9CDD74B5-78F8-4C82-B62F-8E575DC5FDE1"
+    },
+    {
+      "class": "artboard",
+      "id": "505D6A45-1D5E-447A-8F89-37E4EC07871C"
+    },
+    {
+      "class": "artboard",
+      "id": "2E621AD4-E179-4943-AE41-689CC146A804"
+    },
+    {
+      "class": "artboard",
+      "id": "285E8910-9B01-49EB-B653-A4D116130252"
+    },
+    {
+      "class": "artboard",
+      "id": "E43C328D-CDE5-45E1-BA17-F97AD8CE6446"
+    },
+    {
+      "class": "artboard",
+      "id": "6BF1C995-7E72-4ECD-BE40-760C733FEECC"
+    },
+    {
+      "class": "artboard",
+      "id": "D0FAFA0D-21E6-4870-8793-2A84C387EBE7"
+    },
+    {
+      "class": "artboard",
+      "id": "B9C81E07-A8B7-4B4E-9729-427D2BF38080"
+    }
+  ],
+  "name": "[email] - invoice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -439,
+    "guides": [
+    ]
+  }
+}
