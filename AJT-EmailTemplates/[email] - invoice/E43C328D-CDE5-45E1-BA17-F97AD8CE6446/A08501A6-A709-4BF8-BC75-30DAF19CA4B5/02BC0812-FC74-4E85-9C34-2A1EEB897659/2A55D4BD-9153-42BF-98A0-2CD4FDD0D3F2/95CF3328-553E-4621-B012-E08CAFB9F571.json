@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
+              "name": "OpenSans-Regular",
               "size": 16
             }
           },
@@ -102,7 +102,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
+            "name": "OpenSans-Regular",
             "size": 16
           }
         },

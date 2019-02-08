@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7888,
+  "changeIdentifier": 7893,
   "clippingMaskMode": 0,
   "do_objectID": "4D4FD8E5-6145-4045-884C-49BAC3DBCF64",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 320,
     "x": 7395,
     "y": -205
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -65,6 +68,18 @@
   ],
   "name": "footer",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D62EF747-FF83-4F80-AF9A-C79A28DEA619_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D62EF747-FF83-4F80-AF9A-C79A28DEA619_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

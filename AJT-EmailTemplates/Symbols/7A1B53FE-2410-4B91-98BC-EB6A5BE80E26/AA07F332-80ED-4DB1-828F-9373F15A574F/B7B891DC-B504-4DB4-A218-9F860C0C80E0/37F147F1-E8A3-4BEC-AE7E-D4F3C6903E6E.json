@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans",
+              "name": "OpenSans-Regular",
               "size": 14
             }
           },
@@ -58,7 +58,7 @@
     "height": 24,
     "width": 82,
     "x": 259,
-    "y": 15
+    "y": 14
   },
   "glyphBounds": "{{0, 6}, {78, 12}}",
   "hasClippingMask": false,
@@ -95,7 +95,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
+            "name": "OpenSans-Regular",
             "size": 14
           }
         },
